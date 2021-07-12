@@ -1,0 +1,1957 @@
+td.MenuL   { BACKGROUND-COLOR: #002b71; 
+    FONT-FAMILY: Arial, Tahoma;
+    FONT-WEIGHT: Normal;
+      FONT-SIZE: 8pt;
+     TEXT-ALIGN: Left;
+          COLOR: #ffffff;
+          WIDTH: 140px;} 
+           
+Td.MenTCFL {BACKGROUND-COLOR: #4169e1;
+   FONT-FAMILY: Arial;
+   FONT-WEIGHT: Bolder;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Left;
+         COLOR: #ffffff;}
+        
+Td.MenTCFC {BACKGROUND-COLOR: #4169e1;
+ BORDER-BOTTOM: #002b71 thin solid 1pt;
+   BORDER-LEFT: #002b71 thin solid 1pt;
+  BORDER-RIGHT: #002b71 thin solid 1pt;
+    BORDER-TOP: #002b71 thin solid 1pt;
+   FONT-FAMILY: Arial;
+   FONT-WEIGHT: Bolder;
+     FONT-SIZE: 10px;
+    TEXT-ALIGN: Left;
+         COLOR: #ffffff;}
+
+Td.MenTCFR {BACKGROUND-COLOR: #4169e1;
+   FONT-FAMILY: Arial;
+   FONT-WEIGHT: Bold;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Right;
+         COLOR: #ffffff;
+        MARGIN: 1px;}                                             
+
+Td.MenDSFL10  {    FONT-FAMILY: Arial,Verdana,Helvetica;
+   FONT-WEIGHT: Bold;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Left;
+         COLOR:#5B62A0;}
+         
+Td.MenDSFL  {BACKGROUND-COLOR: #ffffff;
+  FONT-FAMILY: Arial;
+   FONT-WEIGHT: Bold;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Left;
+         COLOR:#5B62A0;}
+        
+Td.MenDSFC  {    FONT-FAMILY: Arial;
+   FONT-WEIGHT: Bold;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;
+         COLOR: #5B62A0;}
+
+      
+.TablitaEtiqueta0 { BACKGROUND-COLOR:#f6cb47;
+      FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 5px;
+            COLOR: #f6cb47;
+       TEXT-ALIGN: Left;
+       height:5px;}
+
+.TablitaEtiqueta { BACKGROUND-COLOR:#002b71;
+      FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #f6cb47;
+       TEXT-ALIGN: Left;}
+
+.TablitaEtiquetaCC {  BACKGROUND-COLOR: #002b71;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #f6cb47;
+       TEXT-ALIGN: Center;}   
+                         
+
+.TablitaEtiquetaCC1 {  BACKGROUND-COLOR: #002b71;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 7px;
+      FONT-WEIGHT: Bold;
+            COLOR: #f6cb47;
+       TEXT-ALIGN: Center;} 
+.TablitaEtiquetaCC2 {  BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 1em;
+      FONT-WEIGHT: Bold;
+            COLOR: #000000;
+       TEXT-ALIGN: Center;}                      
+       
+.TablitaEtiquetaC {  BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #000000;
+       TEXT-ALIGN: Center; }   
+       
+.TablitaEtiquetaC2 {  BACKGROUND-COLOR: #4169e1;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #ffffff;
+       TEXT-ALIGN: Center;}                                         
+
+.TablitaEtiquetaL {  BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Left;}                     
+
+.TablitaEtiquetaR { BACKGROUND-COLOR:#002b71;
+      FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #f6cb47;
+       TEXT-ALIGN: Right;}    
+       
+.TablitaEtiquetaHOrC {  BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 10px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Center;}                      
+
+.TablitaEtiquetaHOrCc {      FONT-FAMILY: Arial,Tahoma;
+                 FONT-SIZE: 15px;
+               FONT-WEIGHT: Bold;
+                     COLOR: #002b71;
+                TEXT-ALIGN: Center;}
+
+.TablitaEtiquetaRR { BACKGROUND-COLOR:#002b71;
+      FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 10px;
+      FONT-WEIGHT: Normal;
+            COLOR: #f6cb47;
+       TEXT-ALIGN: Right;
+       padding:5px;}                                   
+
+.NotaHotC{             COLOR: #000000;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8px;
+    TEXT-ALIGN: Center;}  
+    
+.NotaHotL{              COLOR: #000000;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8px;
+    TEXT-ALIGN: Left;}                                              
+
+.NotaTA1{  BACKGROUND-COLOR: #ebe7e6;
+         COLOR: #000000;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;}
+
+.NotaCZ{  BACKGROUND-COLOR: #4169e1;
+         COLOR: #ffffff;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;}
+                      
+    
+.TablitaTexto    {    BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Left;}
+
+.TablitaTextoC    {    BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Center;}
+.TablitaTextoCX   {    BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 8px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Center;}
+
+.TablitaTextoL    {    BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Left;}
+       
+.TablitaTextoLD    {    BACKGROUND-COLOR: #FF9900;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Left;}
+
+.TablitaTextoR    {    BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Right;}
+       
+.TablitaCostoR    {  FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR:  #002b71;
+       TEXT-ALIGN: Right;}
+
+.TablitaTextoLL    {  BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 10px;
+      FONT-WEIGHT: Bolder;
+            COLOR: #002b71;
+       TEXT-ALIGN: left;}
+       
+.TablitaTextoLLD
+{
+background-color: #FF9900;
+font-family: Arial,Tahoma;
+font-size: 10px;
+font-weight: Bolder;
+color: #002b71;
+text-align: left;
+}                     
+
+.TablitaBorde{ BORDER-BOTTOM: #002b71 thin solid 1pt;
+   BORDER-LEFT: #002b71 thin solid 1pt;
+  BORDER-RIGHT: #002b71 thin solid 1pt;
+    BORDER-TOP: #002b71 thin solid 1pt;
+      FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Normal;
+            COLOR: #000000;
+       TEXT-ALIGN: Left;}
+        
+.TablitaTitulo { BACKGROUND-COLOR:#cbae51;
+      BORDER-LEFT: #002b71 thin solid 1pt;
+     BORDER-RIGHT: #002b71 thin solid 1pt;
+       BORDER-TOP: #002b71 thin solid 1pt;
+      FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Normal;
+            COLOR: #000000;
+       TEXT-ALIGN: Center;}
+       
+.TablitaGenerico{BACKGROUND-COLOR: #8d92a8; 
+   BORDER-BOTTOM: #002b71 thin solid 1pt;
+   BORDER-LEFT: #002b71 thin solid 1pt;
+  BORDER-RIGHT: #002b71 thin solid 1pt;
+    BORDER-TOP: #002b71 thin solid 1p
+    FONT-FAMILY: Arial, Tahoma;
+    FONT-WEIGHT: Normal;
+      FONT-SIZE: 8pt;
+     TEXT-ALIGN: Center;
+          COLOR: #ffffff;} 
+
+.TablitaGenericoLRT{BACKGROUND-COLOR: #8d92a8; 
+   BORDER-LEFT: #002b71 thin solid 1pt;
+  BORDER-RIGHT: #002b71 thin solid 1pt;
+    BORDER-TOP: #002b71 thin solid 1p
+    FONT-FAMILY: Arial, Tahoma;
+    FONT-WEIGHT: Normal;
+      FONT-SIZE: 8pt;
+     TEXT-ALIGN: Center;
+          COLOR: #ffffff;} 
+
+
+                                                       
+.Tablitadatos{    FONT-FAMILY: Arial, Tahoma;
+    FONT-WEIGHT: Normal;
+      FONT-SIZE: 8pt;
+     TEXT-ALIGN: Center Top;
+          COLOR: #000000;} 
+          
+.TablitaAgenda{ BACKGROUND-COLOR: #99cc99; 
+         FONT-FAMILY: Arial, Tahoma;
+         FONT-WEIGHT: Bolder;
+           FONT-SIZE: 8pt;
+          TEXT-ALIGN: Right;
+               COLOR: #000000;}
+               
+.TablitaAgendaCuerpo{      FONT-FAMILY: Arial, Tahoma;
+             FONT-WEIGHT: Normal;
+               FONT-SIZE: 8pt;
+              TEXT-ALIGN: Left;
+                   COLOR: #000000;}
+
+.VinculoGenerico{ BACKGROUND-COLOR: #6699cc; 
+         FONT-FAMILY: Arial, Tahoma;
+         FONT-WEIGHT: Normal;
+           FONT-SIZE: 11pt;
+          TEXT-ALIGN: Left;
+               COLOR: #ffffff;} 
+
+
+.TablitaSubTitulo {BACKGROUND-COLOR: #f0f8ff; 
+   BORDER-LEFT: #002b71 thin solid 1pt;
+  BORDER-RIGHT: #002b71 thin solid 1pt;
+     FONT-FAMILY: Arial, Tahoma;
+     FONT-WEIGHT: Normal;
+       FONT-SIZE: 8pt;
+      TEXT-ALIGN: Left;
+           COLOR: #002b71;}   
+           
+Td.BBrIzq1{  BACKGROUND-COLOR: #f7f7ff;
+  BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-RIGHT: #191970 thin solid 1pt;
+     BORDER-LEFT: #191970 thin solid 1pt;
+          COLOR: #000000;
+    FONT-FAMILY: Arial;
+      FONT-SIZE: 7pt;
+     TEXT-ALIGN: Center;}                  
+
+Td.BBrCen2{  BACKGROUND-COLOR: #f7f7ff;
+  BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-RIGHT: #191970 thin solid 1pt;
+          COLOR: #000000;
+    FONT-FAMILY: Arial;
+      FONT-SIZE: 7pt;
+     TEXT-ALIGN: Left;}
+     
+Td.BBrCen1{  BACKGROUND-COLOR: #f7f7ff;
+  BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-RIGHT: #191970 thin solid 1pt;
+          COLOR: #000000;
+    FONT-FAMILY: Arial;
+      FONT-SIZE: 7pt;
+     TEXT-ALIGN: Center;}                  
+
+
+         
+         
+Td.BorderIzq{  BACKGROUND-COLOR: #f1f8f5;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+      BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;
+       TEXT-ALIGN: Center;}                  
+
+Td.BorderCen{  BACKGROUND-COLOR: #f1f8f5;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;
+       TEXT-ALIGN: Center;}                  
+
+Td.BorderDer{  BACKGROUND-COLOR: #f1f8f5;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;
+       TEXT-ALIGN: Center;}                  
+
+Td.BorderDerN{  BACKGROUND-COLOR: #f1f8f5;
+    BORDER-LEFT  : #191970 thin solid 1pt;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;
+       TEXT-ALIGN: Center;}                  
+
+Td.BorderIzqB{  BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+      BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;
+       TEXT-ALIGN: Center;}                  
+
+Td.BorderCenB{  BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;
+       TEXT-ALIGN: Center;}                  
+
+Td.BorderDerB{  BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;
+       TEXT-ALIGN: Center;} 
+
+Td.BorderDerBN{  BACKGROUND-COLOR: #e9e7d9;
+      BORDER-LEFT: #191970 thin solid 1pt;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;
+       TEXT-ALIGN: Center;} 
+       
+       
+Td.BorderIzqC{     BORDER-RIGHT: gray  thin solid 1pt;
+       BORDER-TOP: gray  thin solid 1pt;
+            COLOR: #696969;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 6.5pt;
+       TEXT-ALIGN: Left;}                  
+
+Td.BorderCenC{     BORDER-RIGHT: gray  thin solid 1pt;
+       BORDER-TOP: gray  thin solid 1pt;
+            COLOR: #696969;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 6.5pt;
+       TEXT-ALIGN: Left;}                  
+
+Td.BorderDerC{       BORDER-TOP: gray  thin solid 1pt;
+            COLOR: #696969;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 6.5pt;
+       TEXT-ALIGN: Left;}
+Td.BorderAL{       BORDER-TOP: gray  thin solid 1pt;
+            COLOR: #696969;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 6.5pt;
+       TEXT-ALIGN: Left;}    
+                         
+Td.BorderAC{       BORDER-TOP: gray  thin solid 1pt;
+            COLOR: #696969;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 6.5pt;
+       TEXT-ALIGN: Center;}                                                      
+
+Td.BorderAR{       BORDER-TOP: gray  thin solid 1pt;
+            COLOR: #696969;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 6.5pt;
+       TEXT-ALIGN: Right;}                                                               
+
+.BorderKarIzqSBL{       COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Left;}
+
+.BorderKarIzqSBR{       COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Right;}
+           
+          
+.TablitaKarTextoL {  BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+       BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 7.5pt;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Left;}
+       
+.TablitaKarTextoC {  BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+       BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 7.5pt;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Center;}
+
+.TablitaKarTextoR { BORDER-LEFT: solid 1pt gray;
+     BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+       BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 7.5pt;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Center;}
+                            
+.TablitaKarTextoCell {BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+       BORDER-RIGHT: solid 1pt gray;
+       
+       BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 7.5pt;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Center;}   
+.TablitaKarTextoCellizq {BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+       BORDER-RIGHT: solid 1pt gray;
+       
+       BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 7.5pt;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: LEFT;} 
+                                 
+.TablitaKarTextoCellOTRO { BACKGROUND-COLOR: Red;
+       BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+       BORDER-RIGHT: solid 1pt gray;
+       BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 7.5pt;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Center;}  
+          
+.TablitaKarTextoCellOTROL { BACKGROUND-COLOR: Red;
+       BORDER-TOP: solid 1pt gray;
+       BORDER-RIGHT: solid 1pt gray;
+       BACKGROUND-COLOR: #f6cb47;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 7.5pt;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Left;}                                                     
+
+.BorderKarIzqOTRO{  BACKGROUND-COLOR: Red; 
+      BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}  
+.BorderKarIzqLOTRO{  BACKGROUND-COLOR: Red; 
+       BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Left;}                       
+.BorderKarIzqC{    BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}       
+                  
+.BorderKarIzqL{    BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Left;}   
+           
+.BorderKarIzqR1{   BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Right;}                        
+
+.BorderKarIzqR2{   BORDER-LEFT: solid 1pt gray;
+     BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Right;}
+
+.BorderKarIzqR3{  
+      BORDER-LEFT: solid 1pt gray;
+     BORDER-RIGHT: solid 1pt gray;                     
+       BORDER-TOP: solid 1pt gray;                                   
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: left;}                     
+
+Td.BorderKarIzqC2{   BORDER-LEFT: solid 1pt gray;
+     BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}
+                            
+Td.BorderKarcellL{  BORDER-LEFT: solid 1pt gray;
+     BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+    BORDER-BOTTOM: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Left;}
+       
+Td.BorderKarcellC{  BORDER-LEFT: solid 1pt gray;
+     BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+    BORDER-BOTTOM: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}
+                               
+Td.BorderKarcellR{  BORDER-LEFT: solid 1pt gray;
+     BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+    BORDER-BOTTOM: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Right;}
+       
+Td.BorderKarcellR2{BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+    BORDER-BOTTOM: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Right;} 
+         
+Td.BorderKarcellC2{BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+    BORDER-BOTTOM: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;} 
+                         
+Td.BorderKarcellR3{BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+    BORDER-BOTTOM: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}
+          
+Td.BorderKarcellR4{BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Left;} 
+       
+Td.BorderKarcellR5{BORDER-RIGHT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}                      
+      
+
+Td.BorderKarcellLeft{  BORDER-LEFT: solid 1pt gray;
+       BORDER-TOP: solid 1pt gray;
+    BORDER-BOTTOM: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Left;}
+.BorderKarIzqC1X{ border-bottom: solid 0pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}    
+.BorderKarIzqCSL{    BORDER-TOP: solid 1pt gray;
+            COLOR: #000000;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}                                           
+
+.VerColor {  BACKGROUND-COLOR: #e9e7d9;
+      BORDER-LEFT: #ff4500 thin solid 1pt;
+     BORDER-RIGHT: #ff4500 thin solid 1pt;
+    BORDER-BOTTOM: #ff4500 thin solid 1pt;
+       BORDER-TOP: #ff4500 thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;} 
+
+.VerColor1 {  BACKGROUND-COLOR: #ffe4c4;
+      BORDER-LEFT: #2f4f4f thin solid 1pt;
+     BORDER-RIGHT: #2f4f4f thin solid 1pt;
+    BORDER-BOTTOM: #2f4f4f thin solid 1pt;
+       BORDER-TOP: #2f4f4f thin solid 1pt;
+            COLOR: #4169e1;
+      FONT-WEIGHT: bold;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 8pt;} 
+Td.Bordertoma{  BACKGROUND-COLOR: #e9e7d9;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}                  
+Td.Bordertoma1{  BACKGROUND-COLOR: #e9e7d9;
+      BORDER-LEFT: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}                  
+Td.Bordertoma2{  BACKGROUND-COLOR: #e9e7d9;
+     BORDER-LEFT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}                  
+Td.Bordertoma3{      BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}    
+                          
+Td.Bordertoma4{BACKGROUND-COLOR: #e9e7d9;
+      BORDER-LEFT:#191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}                       
+Td.Bordertoma5{    BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}                       
+Td.Bordertoma6{  BACKGROUND-COLOR: #e9e7d9;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Left;}                  
+
+Td.Bordertoma7{BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+      BORDER-LEFT: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}                       
+       
+       
+Td.Bordertoma8{  BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}
+    
+Td.Bordertoma88{  BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: left;}  
+
+Td.Bordertoma9{  BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;}   
+                      
+Td.Bordertoma10{BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Center;} 
+
+Td.Bordertoma11{  BORDER-BOTTOM: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7pt;
+       TEXT-ALIGN: Left;} 
+       
+Td.Bordertoma12{BACKGROUND-COLOR: #6699ff;
+      FONT-FAMILY: Arial;
+           COLOR : #ffffff;
+      FONT-WEIGHT: bold;
+        FONT-SIZE: 6.5pt;
+       TEXT-ALIGN: Left;}  
+                          
+Td.Bordertoma13{BACKGROUND-COLOR: #87ceeb;
+      FONT-FAMILY: Arial;
+           COLOR : #191970;
+      FONT-WEIGHT: bold;
+        FONT-SIZE: 6.5pt;
+       TEXT-ALIGN: Left;}  
+                          
+Td.Bordertoma14{BACKGROUND-COLOR: #6699cc;
+      FONT-FAMILY: Arial;
+           COLOR : #ffffff;
+      FONT-WEIGHT: bold;
+        FONT-SIZE: 6.5pt;
+       TEXT-ALIGN: Left;}
+       
+Td.Bordertoma15{BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+      BORDER-RIGHT: #191970 thin solid 1pt;
+      BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 6.7pt;
+       TEXT-ALIGN: Center;}                      
+       
+Td.Bordertoma16{BACKGROUND-COLOR: #e9e7d9;
+       BORDER-LEFT:#191970 thin solid 1pt;
+        BORDER-TOP: #191970 thin solid 1pt;
+     BORDER-BOTTOM: #191970 thin solid 1pt;
+      BORDER-RIGHT: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 6.7pt;
+       TEXT-ALIGN: Center;}  
+
+Td.Bordertoma17{  BACKGROUND-COLOR: #e9e7d9;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 6pt;
+       TEXT-ALIGN: Center;}   
+
+Td.Bordertoma18{BACKGROUND-COLOR: #e9e7d9;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+      BORDER-LEFT: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 7p;
+       TEXT-ALIGN: Center;}      
+
+Td.Bordertoma21{BACKGROUND-COLOR: #002b71;
+      BORDER-LEFT:#191970 thin solid 1pt;
+      BORDER-TOP: #191970 thin solid 1pt;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+      BORDER-RIGHT: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #f6cb47;
+       TEXT-ALIGN: Center;
+}      
+
+Td.Bordertoma22{BACKGROUND-COLOR: #002b71;
+    BORDER-BOTTOM: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #f6cb47;
+       TEXT-ALIGN: Center;
+}     
+
+Td.Bordertoma23{BACKGROUND-COLOR: #002b71;
+      BORDER-LEFT: #191970 thin solid 1pt;
+       BORDER-TOP: #191970 thin solid 1pt;
+     BORDER-RIGHT: #191970 thin solid 1pt;
+      FONT-FAMILY: Arial;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #f6cb47;
+       TEXT-ALIGN: Center}                                          
+       
+Td.F8L{              COLOR: #000000;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Left;}
+    
+Td.F8C{              COLOR: #000000;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;}
+    
+Td.F8R{              COLOR: #000000;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: right;}
+
+Td.F8j{              COLOR: #000000;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Justify;}
+Td.F8j{              COLOR: #000000;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Justify;}
+       
+Td.Sigla1{   BACKGROUND-COLOR: #4169e1;
+   BORDER-LEFT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #ffffff;
+   FONT-WEIGHT: bold;
+    FONT-STYLE: Normal;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 15pt;
+    TEXT-ALIGN: Left;}                  
+
+.Sigla{   BACKGROUND-COLOR: #4169e1;
+  BORDER-RIGHT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #ffffff;
+   FONT-WEIGHT: bold;
+    FONT-STYLE: Normal;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 15pt;
+    TEXT-ALIGN: Left;}                  
+
+Td.Nombre1{  BACKGROUND-COLOR: #4169e1;
+ BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-LEFT: #191970 thin solid 1pt;
+         COLOR: #ffffff;
+   FONT-WEIGHT: bold;
+    FONT-STYLE: Normal;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 10pt;
+    TEXT-ALIGN: Left;}                  
+
+Td.Nombre{  BACKGROUND-COLOR: #4169e1;
+ BORDER-BOTTOM: #191970 thin solid 1pt;
+  BORDER-RIGHT: #191970 thin solid 1pt;
+         COLOR: #ffffff;
+   FONT-WEIGHT: bold;
+    FONT-STYLE: Normal;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 10pt;
+    TEXT-ALIGN: Left;}                  
+
+Td.Cr1{        BORDER-BOTTOM: #191970 thin solid 1pt;}                  
+
+Td.Cr2{     BACKGROUND-COLOR: #b0c4de;
+    BORDER-TOP: #191970 thin solid 1pt;
+ BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-LEFT: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+    FONT-STYLE: Normal;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 7.5pt;
+    TEXT-ALIGN: Center;}
+                     
+Td.Cr3{     BACKGROUND-COLOR: #b0c4de;
+ BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-LEFT: #191970 thin solid 1pt;
+  BORDER-RIGHT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+    FONT-STYLE: Normal;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 7.5pt;
+    TEXT-ALIGN: Center;}  
+                    
+Td.bordeFF{     BACKGROUND-COLOR: #b0c4de;
+ BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-LEFT: #191970 thin solid 1pt;
+  BORDER-RIGHT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 15pt;
+    TEXT-ALIGN: Center;}                  
+
+Td.bordeFF0{     BACKGROUND-COLOR: #ffffff;
+ BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-LEFT: #191970 thin solid 1pt;
+  BORDER-RIGHT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;}
+
+
+Td.bordeFF1{     BACKGROUND-COLOR: #ffff00;
+ BORDER-BOTTOM: gray thin solid 1pt;
+   BORDER-LEFT: gray thin solid 1pt;
+  BORDER-RIGHT: gray thin solid 1pt;
+    BORDER-TOP: gray thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 15pt;
+    TEXT-ALIGN: Center;}                  
+Td.BordeFF2{    BACKGROUND-COLOR: #eee8aa;
+ BORDER-BOTTOM: gray thin solid 1pt;
+   BORDER-LEFT: gray thin solid 1pt;
+  BORDER-RIGHT: gray thin solid 1pt;
+    BORDER-TOP: gray thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 10pt;
+    TEXT-ALIGN: Right;}                  
+
+Td.BordeFF3{    BACKGROUND-COLOR: #eee8aa;
+ BORDER-BOTTOM: gray thin solid 1pt;
+   BORDER-LEFT: gray thin solid 1pt;
+  BORDER-RIGHT: gray thin solid 1pt;
+    BORDER-TOP: gray thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;} 
+Td.BordeFF4{    BACKGROUND-COLOR: #b0c4de;
+ BORDER-BOTTOM: gray thin solid 1pt;
+   BORDER-LEFT: gray thin solid 1pt;
+  BORDER-RIGHT: gray thin solid 1pt;
+    BORDER-TOP: gray thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;} 
+    
+Td.bordeFF5{     BACKGROUND-COLOR: #b0c4de;
+ BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-LEFT: #191970 thin solid 1pt;
+  BORDER-RIGHT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;}   
+        
+Td.bordeFF6{   BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-LEFT: #191970 thin solid 1pt;
+  BORDER-RIGHT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 6.5pt;
+    TEXT-ALIGN: Right;}   
+
+Td.bordeFF7{     BACKGROUND-COLOR: #ffd700;
+ BORDER-BOTTOM: #191970 thin solid 1pt;
+   BORDER-LEFT: #191970 thin solid 1pt;
+  BORDER-RIGHT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-WEIGHT: bold;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 15pt;
+    TEXT-ALIGN: Center;} 
+
+Td.R0      {     BORDER-LEFT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 6.5pt;
+    TEXT-ALIGN: Left;}   
+    
+Td.R1      {     BORDER-LEFT: #191970 thin solid 1pt;
+  BORDER-RIGHT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 6.5pt;
+    TEXT-ALIGN: Left;}   
+
+Td.R2      {    BORDER-RIGHT: #191970 thin solid 1pt;
+    BORDER-TOP: #191970 thin solid 1pt;
+         COLOR: #4169e1;
+   FONT-FAMILY: Arial;
+     FONT-SIZE: 6.5pt;
+    TEXT-ALIGN: Left;}   
+    
+    
+.TextoGenNC{   BACKGROUND-COLOR: #f6cb47;
+      FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Center;}
+
+.TextoGenNL    {     FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Left;}
+
+.TextoGenNR    {     FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #002b71;
+       TEXT-ALIGN: Right;}            
+                         
+.hc1 {      BACKGROUND-COLOR: #ffa500; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;} 
+                          
+.hc2 {      BACKGROUND-COLOR: #999933; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;} 
+                          
+.hc3 {      BACKGROUND-COLOR: #6699cc; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}       
+                    
+.hc4 {      BACKGROUND-COLOR: #b0c4de; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}
+                          
+.hc5 {      BACKGROUND-COLOR: #9999ff; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}                  
+
+.hc6 {      BACKGROUND-COLOR: #ccffcc; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}                  
+
+.hc7 {      BACKGROUND-COLOR: #fdf5e6; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}                  
+
+.hc8 {      BACKGROUND-COLOR: #6495ed; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}                  
+
+.hc9 {      BACKGROUND-COLOR: #cccc99; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 7pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}                  
+
+.hc10 {      BACKGROUND-COLOR: #add8e6; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}                  
+
+.hc11 {      BACKGROUND-COLOR: #009999; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}
+                           
+.hc12 {      BACKGROUND-COLOR: #adff2f; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}  
+                         
+.hc13 {      BACKGROUND-COLOR: #f5deb3; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}      
+                     
+.hc14 {      BACKGROUND-COLOR: #e6e6fa; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}  
+                         
+.hc15 {      BACKGROUND-COLOR: #00ffff; 
+   FONT-FAMILY: Arial, Tahoma;
+   FONT-WEIGHT: Normal;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;
+         COLOR: #000000;}                  
+       
+.fecha{             FONT-FAMILY: Tahoma;
+        FONT-SIZE: 7.5pt;
+      FONT-WEIGHT: bold;
+            WIDTH: 75px;
+            COLOR: #000000;
+       TEXT-ALIGN: Left;} 
+.hora { 		FONT-FAMILY: Tahoma;
+    FONT-SIZE: 7.5pt;
+  FONT-WEIGHT: bold;
+        WIDTH: 40px;
+        COLOR: #000000;
+   TEXT-ALIGN: Left;} 
+
+.aula { 		FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt;
+  FONT-WEIGHT: Bold;
+        WIDTH: 150px;
+        COLOR: #000000;
+   TEXT-ALIGN: Left;} 
+
+TD.NON {font-family :Tahoma, Verdana, Arial; font-size :12px; color :#C0C0C0; font-weight :normal;}
+TD.TOP {font-family :Tahoma, Verdana, Arial; font-size :12px; color :#0000FF; font-weight :bold;}
+TD.Some {font-family :Tahoma, Verdana, Arial; font-size :12px; color :#000000; font-weight :normal;}
+
+A.NOEVENT:Link {font-family :Tahoma, Verdana, Arial; font-size :12px; color :#000000; font-weight :normal; text-decoration: none;}
+A.NOEVENT:Visited {font-family :Tahoma, Verdana, Arial; font-size :12px; color :#000000; font-weight :normal; text-decoration: none;}
+
+A.EVENT:Link {font-family :Tahoma, Verdana, Arial; font-size :10px; color :#0000ff; font-weight :bold; text-decoration: none;}
+A.EVENT:Visited {font-family :Tahoma, Verdana, Arial; font-size :10px; color :#0000ff; font-weight :bold; text-decoration: none;}
+
+A.NORMAL:Link {font-family :Verdana, Arial; font-size :12px; color :#0000FF; font-weight :normal; text-decoration: none;}
+A.NORMAL:Visited {font-family :Verdana, Arial; font-size :12px; color :#0000FF; font-weight :normal; text-decoration: none;}
+
+
+
+a.F8_p         {TEXT-DECORATION: none; FONT-SIZE:8px;}
+a.F8_p:Active  {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 8px;FONT-WEIGHT: Bolder;}
+a.F8_p:link    {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 8px;FONT-WEIGHT: Bolder;}
+a.F8_p:visited {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 8px;FONT-WEIGHT: Bolder;}
+a.F8_p:hover   {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 8px;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+a.F8_b         {TEXT-DECORATION: none; FONT-SIZE:8px;}
+a.F8_b:Active  {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 8pt;FONT-WEIGHT: Bolder;}
+a.F8_b:link    {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 8pt;FONT-WEIGHT: Bolder;}
+a.F8_b:visited {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 8pt;FONT-WEIGHT: Bolder;}
+a.F8_b:hover   {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 8pt;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+
+a.F9_p         {TEXT-DECORATION: none; FONT-SIZE:9px;}
+a.F9_p:Active  {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Bolder;}
+a.F9_p:link    {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Bolder;}
+a.F9_p:visited {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Bolder;}
+a.F9_p:hover   {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+a.F9_b         {TEXT-DECORATION: none; FONT-SIZE:9px;}
+a.F9_b:Active  {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Bolder;}
+a.F9_b:link    {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Bolder;}
+a.F9_b:visited {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Bolder;}
+a.F9_b:hover   {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+
+a.F9_n         {TEXT-DECORATION: none; FONT-SIZE:9px;}
+a.F9_n:Active  {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Normal;}
+a.F9_n:link    {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Normal;}
+a.F9_n:visited {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Normal;}
+a.F9_n:hover   {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 9px;FONT-WEIGHT: Normal;TEXT-DECORATION: underline;}
+
+a.F10         {TEXT-DECORATION: none; FONT-SIZE:10px;}
+a.F10:Active  {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;}
+a.F10:link    {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;}
+a.F10:visited {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;}
+a.F10:hover   {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+a.F10_b         {TEXT-DECORATION: none; FONT-SIZE:10px;}
+a.F10_b:Active  {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;}
+a.F10_b:link    {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;}
+a.F10_b:visited {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;}
+a.F10_b:hover   {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+a.F10_p         {TEXT-DECORATION: none; FONT-SIZE:10px;}
+a.F10_p:Active  {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;}
+a.F10_p:link    {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;}
+a.F10_p:visited {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;}
+a.F10_p:hover   {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+a.F10_n         {TEXT-DECORATION: none; FONT-SIZE:10px;}
+a.F10_n:Active  {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Normal;}
+a.F10_n:link    {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Normal;}
+a.F10_n:visited {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Normal;}
+a.F10_n:hover   {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Normal;TEXT-DECORATION: underline;}
+
+a.F12_n         {TEXT-DECORATION: none; FONT-SIZE:12px;}
+a.F12_n:Active  {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;}
+a.F12_n:link    {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;}
+a.F12_n:visited {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;}
+a.F12_n:hover   {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;TEXT-DECORATION: underline;}
+
+a.F12_p         {TEXT-DECORATION: none; FONT-SIZE:12px;}
+a.F12_p:Active  {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;}
+a.F12_p:link    {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;}
+a.F12_p:visited {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;}
+a.F12_p:hover   {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+a.F12_SL         {TEXT-DECORATION: none; FONT-SIZE:12px;}
+a.F12_SL:Active  {COLOR: #002b71; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;}
+a.F12_SL:link    {COLOR: #002b71; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;}
+a.F12_SL:visited {COLOR: #002b71; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;}
+a.F12_SL:hover   {COLOR: #002b71; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;;TEXT-DECORATION: underline;}
+
+a.F12_b         {TEXT-DECORATION: none; FONT-SIZE:12px;}
+a.F12_b:Active  {COLOR: #f6cb47; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;}
+a.F12_b:link    {COLOR: #f6cb47; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;}
+a.F12_b:visited {COLOR: #f6cb47; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;}
+a.F12_b:hover   {COLOR: #f6cb47; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Bolder;;TEXT-DECORATION: underline;}
+
+a.F12_bb         {TEXT-DECORATION: none; FONT-SIZE:12px;}
+a.F12_bb:Active  {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;}
+a.F12_bb:link    {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;}
+a.F12_bb:visited {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;}
+a.F12_bb:hover   {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;;TEXT-DECORATION: underline;}
+
+a.F11_n         {TEXT-DECORATION: none; FONT-SIZE:11px;}
+a.F11_n:Active  {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_n:link    {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_n:visited {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_n:hover   {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;TEXT-DECORATION: underline;}
+
+a.F11_p         {TEXT-DECORATION: none; FONT-SIZE:11px;}
+a.F11_p:Active  {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_p:link    {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_p:visited {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_p:hover   {COLOR: #4169e1; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;TEXT-DECORATION: underline;}
+
+a.F11_gr         {TEXT-DECORATION: none; FONT-SIZE:11px;}
+a.F11_gr:Active  {COLOR: #002b71; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_gr:link    {COLOR: #002b71; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_gr:visited {COLOR: #002b71; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_gr:hover   {COLOR: #002b71; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+
+a.F11_ngr         {TEXT-DECORATION: none; FONT-SIZE:11px;}
+a.F11_ngr:Active  {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_ngr:link    {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_ngr:visited {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+a.F11_ngr:hover   {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 11px;FONT-WEIGHT: Normal;}
+
+
+a.F14         {TEXT-DECORATION: none; FONT-SIZE:14px;}
+a.F14:Active  {COLOR: #5B62A0; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;}
+a.F14:link    {COLOR: #5B62A0; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;}
+a.F14:visited {COLOR: #5B62A0; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;}
+a.F14:hover   {COLOR: #4169e1; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;TEXT-DECORATION: underline;}
+
+a.F16         {TEXT-DECORATION: none; FONT-SIZE:16px;}
+a.F16:Active  {COLOR: #5B62A0; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 16px;}
+a.F16:link    {COLOR: #5B62A0; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 16px;}
+a.F16:visited {COLOR: #5B62A0; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 16px;}
+a.F16:hover   {COLOR: #4169e1; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 16px;TEXT-DECORATION: underline;}
+
+a.FB10         {TEXT-DECORATION: none; FONT-SIZE:10px;}
+a.FB10:Active  {COLOR: #ffffff; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;}
+a.FB10:link    {COLOR: #ffffff; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;}
+a.FB10:visited {COLOR: #ffffff; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;}
+a.FB10:hover   {COLOR: #ffff00; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;TEXT-DECORATION: underline;}
+
+a.F20         {TEXT-DECORATION: none; FONT-SIZE:15x; FONT-WEIGHT: bold;}
+a.F20:Active  {COLOR: #5B62A0; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 15px; FONT-WEIGHT: bold;}
+a.F20:link    {COLOR: #5B62A0; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 15px; FONT-WEIGHT: bold;}
+a.F20:visited {COLOR: #5B62A0f; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 15px; FONT-WEIGHT: bold;}
+a.F20:hover   {COLOR: #4169e1; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 15px;TEXT-DECORATION: underline; FONT-WEIGHT: bold;}
+
+a.L15         {TEXT-DECORATION: none; FONT-SIZE:15pt;}
+a.L15:Active  {COLOR: #ffffff; FONT-FAMILY: Arial,Helvetica,Verdana; FONT-SIZE: 15pt;}
+a.L15:link    {COLOR: #ffffff; FONT-FAMILY: Arial,Helvetica,Verdana; FONT-SIZE: 15pt;}
+a.L15:visited {COLOR: #ffffff; FONT-FAMILY: Arial,Helvetica,Verdana; FONT-SIZE: 15pt;}
+a.L15:hover   {COLOR: #ffffff; FONT-FAMILY: Arial,Helvetica,Verdana; FONT-SIZE: 15pt;TEXT-DECORATION: underline;}
+
+a.L10         {TEXT-DECORATION: none; FONT-SIZE:10pt;}
+a.L10:Active  {COLOR: #ffffff; FONT-FAMILY: Arial,Helvetica,Verdana; FONT-SIZE: 10pt;}
+a.L10:link    {COLOR: #ffffff; FONT-FAMILY: Arial,Helvetica,Verdana; FONT-SIZE: 10pt;}
+a.L10:visited {COLOR: #ffffff; FONT-FAMILY: Arial,Helvetica,Verdana; FONT-SIZE: 10pt;}
+a.L10:hover   {COLOR: #ffffff; FONT-FAMILY: Arial,Helvetica,Verdana; FONT-SIZE: 10pt;TEXT-DECORATION: underline;}
+
+a.F1         {TEXT-DECORATION: none; FONT-SIZE:12px;}
+a.F1:Active  {COLOR: #ffffff; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;FONT-WEIGHT: bold;}
+a.F1:link    {COLOR: #ffffff; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;FONT-WEIGHT: bold;}
+a.F1:visited {COLOR: #ffffff; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;FONT-WEIGHT: bold;}
+a.F1:hover   {COLOR: #ffffff; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 10px;FONT-WEIGHT: bold; TEXT-DECORATION: underline;}
+
+a.PBoton         {BORDER-LEFT: white thin outset;BORDER-RIGHT: white thin outset;BORDER-TOP: white thin outset;BORDER-BOTTOM: white thin outset;TEXT-DECORATION: none; FONT-SIZE:12pt; BACKGROUND-COLOR: lightgrey;margin:5px;}
+a.PBoton:Active  {BORDER-LEFT: white thin outset;BORDER-RIGHT: white thin outset;BORDER-TOP: white thin outset;BORDER-BOTTOM: white thin outset;TEXT-DECORATION: none; FONT-SIZE:12pt; BACKGROUND-COLOR: lightgrey;margin:5px;}
+a.PBoton:link    {BORDER-LEFT: white thin outset;BORDER-RIGHT: white thin outset;BORDER-TOP: white thin outset;BORDER-BOTTOM: white thin outset;TEXT-DECORATION: none; FONT-SIZE:12pt; BACKGROUND-COLOR: lightgrey;margin:5px;}
+a.PBoton:visited {BORDER-LEFT: white thin outset;BORDER-RIGHT: white thin outset;BORDER-TOP: white thin outset;BORDER-BOTTOM: white thin outset;TEXT-DECORATION: none; FONT-SIZE:12pt; BACKGROUND-COLOR: lightgrey;margin:5px;}
+a.PBoton:hover   {BORDER-LEFT: white thin outset;BORDER-RIGHT: white thin outset;BORDER-TOP: white thin outset;BORDER-BOTTOM: white thin outset;TEXT-DECORATION: none; FONT-SIZE:12pt; BACKGROUND-COLOR: lightgrey;margin:5px;}
+
+a.F21         {COLOR: red; TEXT-DECORATION: none; FONT-SIZE:16x; FONT-WEIGHT: bold;}
+a.F21:Active  {COLOR: red; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 16px; FONT-WEIGHT: bold;}
+a.F21:link    {COLOR: red; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 16px; FONT-WEIGHT: bold;}
+a.F21:visited {COLOR: red; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 16px; FONT-WEIGHT: bold;}
+a.F21:hover   {COLOR: red; FONT-FAMILY: Helvetica,Verdana; FONT-SIZE: 16px;TEXT-DECORATION: underline; FONT-WEIGHT: bold;}
+
+
+.enlaceboton
+{
+font-family: verdana, arial, sans-serif;
+font-size: 10pt;
+font-weight: Normal;
+padding: 1px;
+background-color: #E7E4E4;
+color: #000000;
+text-decoration: none;
+}
+.enlaceboton:link,
+.enlaceboton:visited {
+border-top: 1px solid #cccccc;
+border-bottom: 1px solid #666666;
+border-left: 1px solid #cccccc;
+border-right: 1px solid #666666;
+text-decoration: none;
+}
+.enlaceboton:hover {
+border-bottom: 1px solid #cccccc;
+border-top: 1px solid #666666;
+border-right: 1px solid #cccccc;
+border-left: 1px solid #666666;
+text-decoration: none;
+}
+
+
+/* MiBoton Style */ 
+.MiBoton:link, .MiBoton:visited
+{
+font-family: verdana, arial, sans-serif;
+font-size: 10pt;
+display: block;
+width: 125px;
+font-weight: Normal;
+white-space: nowrap;
+padding: 2px 10px 2px 10px;
+border-left: 2px solid #FEBF01;
+border-top: 2px solid #FEBF01;
+border-right: 2px solid #987201;
+border-bottom: 2px solid #987201;
+color: #000000;
+background-color: #CCCCCC;
+text-decoration: none;
+border-color: #FFFFFF #C0C0C0 #C0C0C0 #FFFFFF;
+} 
+.MiBoton:hover
+{
+font-family: verdana, arial, sans-serif;
+font-size: 10pt;
+font-weight: Normal;
+color: #000000;
+background-color: #C0C0C0;
+text-decoration: none;
+} 
+.MiBoton:active
+{
+font-family: verdana, arial, sans-serif;
+font-size: 10pt;
+font-weight: Normal;
+border-left: 2px solid #987201;
+border-top: 2px solid #987201;
+border-right: 2px solid #FEBF01;
+border-bottom: 2px solid #FEBF01;
+background-color: #CCCCCC;
+border-color: #C0C0C0 #FFFFFF #FFFFFF #C0C0C0;
+} 
+
+
+a.button {
+background: transparent url(/imagenes/images/bg_button_a.gif) no-repeat scroll top right;
+color: #000000;
+display: block;
+float: left;
+font-family: verdana, arial, sans-serif;
+font-size: 10pt;
+font-weight: Normal;
+height: 24px;
+margin-right: 6px;
+padding-right: 18px; /* sliding doors padding */
+text-decoration: none;
+}
+
+a.button span {
+background: transparent url(/imagenes/images/bg_button_span.png) no-repeat;
+color: #000000;
+display: block;
+line-height: 14px;
+padding: 5px 0 5px 18px;
+text-decoration: none;
+} 
+
+a.button:active {
+background-position: bottom right;
+color: #000000;
+outline: none; /* hide dotted outline in Firefox */
+text-decoration: none;
+}
+
+a.button:active span 
+{
+color: #000000;
+background-position: bottom left;
+padding: 6px 0 4px 18px; /* push text down 1px */
+text-decoration: none;
+} 
+
+body, td  { font-family: arial; font-size: x-small; }
+a         { color: #0000BB; text-decoration: none; }
+a:hover   { color: #FF0000; text-decoration: underline; }
+.headline { font-family: arial black, arial; font-size: 28px; letter-spacing: -1px; }
+.headline2{ font-family: verdana, arial; font-size: 12px; }
+.subhead  { font-family: arial, arial; font-size: 18px; font-weight: bold; font-style: italic; }
+.backtotop     { font-family: arial, arial; font-size: xx-small;  }
+.code     { background-color: #EEEEEE; font-family: Courier New; font-size: x-small;
+margin: 5px 0px 5px 0px; padding: 5px;
+border: black 1px dotted;
+}
+
+div.button {top:0px; left: 0px;}
+div.button a  {display:block; padding-top:2px; font: bold .8em;}
+div.button a:link {color: black; text-decoration:none;}
+div.button a:hover {color:#F33; text-decoration:underline;}
+
+#container iframe {
+float: left;
+padding: 0;
+margin: 0;
+}               
+
+.importante {
+background: #FFCC66 url(../imagenes/images/news.gif) center no-repeat;
+background-position: 15px 50%; /* x-pos y-pos */
+text-align: left;
+padding: 5px 20px 5px 45px;
+border-top: 2px solid #FBAB95;
+border-bottom: 2px solid #FBAB95;
+color:#000000;
+
+}
+
+.hideable { position: relative; visibility: visible; }
+           
+Td.TErrorCabeceraL{  BACKGROUND-COLOR: #002b71;
+         COLOR: #ffffff;
+   FONT-WEIGHT: Bold;
+   FONT-FAMILY: Verdana;
+     FONT-SIZE: 8pt;
+    TEXT-ALIGN: Center;
+LETTER-SPACING: 2px;} 
+
+Td.TErrorCabeceraR{BACKGROUND-COLOR: #002b71;
+                COLOR: #ffff00;
+          FONT-WEIGHT: Bold;
+          FONT-FAMILY: Times;
+            FONT-SIZE: 20pt;
+           TEXT-ALIGN: Right;} 
+                           
+Td.TErrorCuerpo{   BACKGROUND-COLOR: #f6cb47;
+                COLOR: #4169e1;
+          FONT-WEIGHT: Normal;
+          FONT-FAMILY: Arial;
+            FONT-SIZE: 8pt;
+           TEXT-ALIGN: Center;}
+           
+Td.TErrorCuerpoL{   BACKGROUND-COLOR: #f6cb47;
+                COLOR: #4169e1;
+          FONT-WEIGHT: Normal;
+          FONT-FAMILY: Arial;
+            FONT-SIZE: 8pt;
+           TEXT-ALIGN: Left;}
+           
+Td.TErrorPie{      BACKGROUND-COLOR: #f6cb47;
+                COLOR: #4169e1;
+          FONT-WEIGHT: Bold;
+          FONT-FAMILY: Arial;
+            FONT-SIZE: 8pt;
+           TEXT-ALIGN: Right;} 
+.menu_list {	
+width: 200px;
+}
+.menu_head {
+padding: 5px 10px;
+cursor: pointer;
+position: relative;
+margin:1px;
+color:#FFFFFF;
+FONT-FAMILY: Tahoma;
+font-size : 0.7em;
+font-weight:bold;
+background: #4169e1 url('../images/left.png') center right no-repeat;
+}
+.menu_body {
+display:none;
+}
+.menu_body a{
+display:block;
+color:#000000;
+background-color:#FFFFFF;
+padding-left:10px;
+font-weight:bold;
+FONT-FAMILY: Tahoma;
+FONT-SIZE: 0.7em;
+text-decoration:none;
+
+}
+.menu_body a:hover{
+display:block;
+color:#000000;
+background-color:#f6cb47;
+padding-left:10px;
+font-weight:bold;
+FONT-FAMILY: Tahoma;
+FONT-SIZE: 0.7em;
+text-decoration:none;
+/* text-decoration:underline;*/
+}                           
+           
+.SubTitulos  {        FONT-FAMILY: Verdana,Tahoma,Arial ;
+     FONT-WEIGHT: Bolder;
+       FONT-SIZE: 8pt;
+      TEXT-ALIGN: Center;
+           COLOR: #6699cc;}    
+           
+.TablitaEtiquetaNOT {  BACKGROUND-COLOR: #e83606;
+       FONT-FAMILY: Arial,Tahoma;
+        FONT-SIZE: 12px;
+      FONT-WEIGHT: Bold;
+            COLOR: #f9d302;
+       TEXT-ALIGN: Left;}                                                 
+       
+.set{border-bottom:1px solid #000;}
+.set1{background-color:#C77B3F;}
+.set2{background-color:#FFC732;}
+.set3{background-color:#007C90;}
+.set4{background-color:#AD6F08;}
+.set5{background-color:#387855;}
+.set6{background-color:#8C4B2D;}
+.set7{background-color:#82A668;}
+
+
+table.ppp
+{
+border: #600 1px dotted;
+}
+
+table.pp
+{
+border-color: #600;
+border-width: 0 0 1px 1px;
+border-style: solid;
+}
+
+td.pp
+{
+border-color: #600;
+border-width: 1px 1px 0 0;
+border-style: solid;
+FONT-FAMILY: Arial,Tahoma;
+FONT-SIZE: 9px;
+text-align:center;
+}
+td.ppX
+{
+border-color: #600;
+border-width: 1px 1px 0 0;
+border-style: solid;
+font-family: Arial,Tahoma;
+font-size: 9px;
+text-align: left;
+background-color: papayawhip;
+}
+td.pp0
+{
+border-color: #600;
+border-width: 1px 1px 0 0;
+border-style: solid;
+FONT-FAMILY: Arial,Tahoma;
+FONT-SIZE: 9px;
+text-align:left;
+}
+td.pp1
+{
+BACKGROUND-COLOR: #f6cb47;
+border-color: #600;
+border-width: 1px 1px 0 0;
+border-style: solid;
+FONT-FAMILY: Arial,Tahoma;
+FONT-SIZE: 9px;
+text-align:center;
+}    
+
+td.pp2
+{
+background-color: #ffffcc;
+border-color: #600;
+border-width: 1px 1px 0 0;
+border-style: solid;
+font-family: Arial,Tahoma;
+font-size: 9px;
+text-align: center;
+}    
+td.pp3
+{
+border-color: #600;
+border-width: 1px 1px 0 0;
+border-style: solid;
+FONT-FAMILY: Arial,Tahoma;
+FONT-SIZE: 9px;
+text-align:center;
+}        
+
+td.pp4
+{
+border-color: #600;
+border-width: 1px 0 0px 0;
+border-style: dotted;
+FONT-FAMILY: Arial,Tahoma;
+FONT-SIZE: 9px;
+text-align:center;
+}   
+
+td.pp5
+{
+border-color: #600;
+border-width: 1px 0 0px 0;
+border-style: dotted;
+FONT-FAMILY: Arial,Tahoma;
+FONT-SIZE: 9px;
+text-align:left;
+}  
+td.pp6
+{
+border-color : #600;
+border-width: 1px 1px 0 0;
+border-style: solid;
+FONT-FAMILY: Arial,Tahoma;
+FONT-SIZE: 9px;
+text-align:right;
+}
+
+td.pp7 {
+background-color: #ff0000;
+border-color: #600;
+border-width: 1px 1px 0 0;
+border-style: solid;
+font-family: Arial,Tahoma;
+font-size: 9px;
+text-align: center;
+}  
+
+.TomaF1 {        FONT-FAMILY: 'Times New Roman';
+       FONT-SIZE: 12px;
+      FONT-STYLE: italic;
+      TEXT-ALIGN: left;}                              
+
+.TomaF2 {        FONT-FAMILY: 'Times New Roman';
+       FONT-SIZE: 25px;
+     FONT-WEIGHT: bold;
+      FONT-STYLE: italic;
+      TEXT-ALIGN: left;
+ TEXT-DECORATION: underline;
+      TEXT-ALIGN: Center;}                              
+      
+td.TomaF3 {        FONT-FAMILY: 'Times New Roman';
+       FONT-SIZE: 12px;
+     FONT-WEIGHT: bold;
+      TEXT-ALIGN: Right;}                              
+
+td.TomaF4 {        FONT-FAMILY: 'Times New Roman';
+       FONT-SIZE: 12px;
+      TEXT-ALIGN: left;
+      }                              
+
+td.TomaF5 {        FONT-FAMILY: 'Times New Roman';
+       FONT-SIZE: 12px;
+     FONT-WEIGHT: bold;
+      TEXT-ALIGN: Left;} 
+      
+ul#list-nav {
+list-style:none;
+margin-left:4px;
+margin-bottom:0px;
+margin-right:0;
+margin-top:0px;
+padding:0px;
+width:100%;
+FONT-SIZE: 9px;
+}
+
+ul#list-nav li {
+display:inline
+}
+
+ul#list-nav li a {
+text-decoration:none;
+padding:5px 5px;
+/*width:100px;*/
+/*background:#3b4777;
+background-image: url('../../imagenes/images/barra.jpg');
+background-repeat:repeat-x;*/
+background: url('https://csi.scz.ucb.edu.bo/imagenes/images/MenuTop.png') #3b4777 repeat-x;
+color:#eee;
+float:left;
+text-align:center;
+border-left:1px solid #fff;
+FONT-SIZE: 9px;
+}
+
+ul#list-nav li a:hover {
+/*background:#e1c210;*/
+background: url('https://csi.scz.ucb.edu.bo/imagenes/images/MenuTop1.png') #e1c210 repeat-x;
+color:#000;
+FONT-SIZE: 9px;
+}
+
+div.scroll {
+height: 500px;
+width: 700px;
+overflow: auto;
+border: 1px solid #666;
+background-color: #ccc;
+padding: 8px;
+}
+
+div.autosize { display: table; width: 1px; }
+div.autosize > div { display: table-cell; }
+
+div.center {
+width:100%;
+min-width:500px;
+height:400px;
+margin-left:auto;
+margin-right:auto;
+margin-top:auto;
+margin-bottom:auto;
+font-size:1.5em;
+}
+
+.Titulos  {        FONT-FAMILY: Verdana,Tahoma,Arial ;
+     FONT-WEIGHT: Bolder;
+       FONT-SIZE: 9pt;
+      TEXT-ALIGN: Center;
+           COLOR: #002b71;}    
+
+.li9px {font-family: verdana,geneva; font-size: xx-small;}
+
+.GenCFLCB{  BACKGROUND-COLOR: #efefef;  
+   BORDER-BOTTOM: #191970 thin solid 1pt;
+      BORDER-TOP: #191970 thin solid 1pt;
+           COLOR: #4169e1;
+     FONT-WEIGHT: bold;
+     FONT-FAMILY: Arial;
+       FONT-SIZE: 9pt;
+      TEXT-ALIGN: Left;} 
+      
+.NotaColorR
+{
+background-color: #e83606;
+font-family: Arial,Tahoma;
+font-size: 12px;
+font-weight: Bold;
+color: #f9d302;
+text-align: Left;
+}   
+.NotaColorB
+{
+background-color: #4169e1;
+font-family: Arial,Tahoma;
+font-size: 12px;
+font-weight: Bold;
+color: #f9d302;
+text-align: Left;
+}   
+
+.NotaColorV
+{
+background-color: #336600;
+font-family: Arial,Tahoma;
+font-size: 12px;
+font-weight: Bold;
+color: #f9d302;
+text-align: Left;
+}                                      
+
+.Nombreactividad {  BACKGROUND-COLOR: #4169e1;
+           BORDER-BOTTOM: #191970 thin solid 1pt;
+                   COLOR: #ffffff;
+             FONT-WEIGHT: bold;
+              FONT-STYLE: Normal;
+             FONT-FAMILY: Arial;
+               FONT-SIZE: 10pt;
+              TEXT-ALIGN: Center;}
+
+
+
+.Otrobtn {
+display: inline-block;
+padding: 6px 12px;
+margin-bottom: 0;
+font-size: 14px;
+font-weight: normal;
+line-height: 1.42857143;
+text-align: center;
+white-space: nowrap;
+vertical-align: middle;
+-ms-touch-action: manipulation;
+touch-action: manipulation;
+cursor: pointer;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+background-image: none;
+border: 1px solid transparent;
+border-radius: 4px;
+}
+
+.Otrobtn:hover, .Otrobtn:focus, .Otrobtn.focus {
+color: #333;
+text-decoration: none;
+}
+
+.Otrobtn-default {
+color: #333;
+background-color: #fff;
+border-color: #ccc;
+}
+.Otrobtn-default:hover, .Otrobtn-default:focus, .Otrobtn-default.focus, .Otrobtn-default:active, .Otrobtn-default.active, .open > .dropdown-toggle.btn-default {
+color: #333;
+background-color: #e6e6e6;
+border-color: #adadad;
+}
+
+.alert {
+font-size:12px;
+padding: 15px;
+margin-bottom: 20px;
+border: 1px solid transparent;
+border-radius: 4px;
+}
+
+.alert-danger {
+color: #b94a48;
+background-color: #f2dede;
+border-color: #ebccd1;
+}
+
+.alert-info {
+color: #0c5460;
+background-color: #d1ecf1;
+border-color: #bee5eb;
+}
+
+.FEC1, .RET1, .INC1, .AUS1, .FER1 {
+display: none !important;
+}

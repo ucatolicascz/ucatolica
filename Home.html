@@ -1,0 +1,475 @@
+<html>
+    <head>
+        <script language="javascript1.2">
+
+
+
+    function ValidaFormAlumnos(theForm)
+    { 
+        var opts = document.getElementsByName("OptR");
+        for(let i of opts)
+        {
+            if(i.checked)
+            {
+                switch (i.value) {
+                    case "1":
+                        //Notas
+                        window.location.href = 'Notas.html';
+                        return false;
+                        break;
+                    case "4":
+                        //Historico
+                        window.location.href = 'Historico.html';
+                        return false;
+                    break;
+                    case "9":
+                        //Rendimiento
+                        window.location.href = 'Rendimiento.html';
+                        return false;
+                    break;
+                } 
+            }
+           
+        }
+        alert("Página en mantenimiento, por favor intente mas tardes.");
+        return false; 
+    }
+    
+    </script>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <meta name="title" content="Centro de Sistemas de Informaci&amp;oacuten">
+    <meta name="author" content="Anthony Ortuño Vasquez">
+    <meta name="keywords" content="CPD, indice, buscador, guia, Internet, MP3, radio, informatica, finanzas, economia, negocios, empresas, sociedad, política">
+    <meta name="Description" content="P&amp;aacutegina dedicada a estudiantes de la Universidad Cat&amp;oacutelica Boliviana.">
+    <meta name="Distribution" content="Global">
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta name="Robots" content="All">
+    <!-- <link rel="SHORTCUT ICON" href="../Url/Skin/Default/images/favicon.ico"> -->
+    <link href="./assets/css/StyleDiseno.css" rel="stylesheet">
+    <!-- <link href="/assets/css/StyleDiseno.css" rel="stylesheet"> -->
+    <link href="./assets/css/StyleBorder.css" rel="stylesheet">
+    <link href="./assets/css/StyleImage.css" rel="stylesheet">
+    <link href="./assets/css/StyleText.css" rel="stylesheet">
+    <link href="./assets/css/StyleColor.css" rel="stylesheet">
+    <link href="./assets/css/StyleMenu.css" rel="stylesheet">
+    <link href="./assets/css/StyleUrl.css" rel="stylesheet">
+    <link href="./assets/css/Style.css" rel="stylesheet">
+    <script src="./assets/js/jquery/jquery-3.1.1.min.js"></script>
+    <script src="./assets/js/jquery/jquery-3.2.1.min.js"></script>
+
+    <script src="./assets/js/CRutinas.js"></script>
+    <!-- <script src="../url/jquery/js/jquery.tablesorter.js?v=072017"></script> -->
+    <!-- <script src="../url/jquery/jQuery.print.js?v=02112017"></script> -->
+    <script src="./assets/js/Impresion.js"></script>
+    <script src="./assets/js/JQueryRutinas.js"></script>
+    <!--[if lt IE 9]>
+      <script src="../url/jquery/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript"> 
+    //  $(document).ready(function() {
+    //    $("table").tablesorter({sortList: [[5,0]]}); }); 
+    </script>
+    
+    <title>Opciones de Estudiante</title>
+    </head>
+    <body class="pagebody">
+     <div id="wrapcenter">
+    <center><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td class="Cuerpo" colspan="2" valign="Top">
+    <center><table width="99%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td class="BreadCrumb1" colspan="2">
+    </td>
+    </tr>
+    <tr>
+    <td class="BreadCrumb2" colspan="2">
+    </td>
+    </tr>
+    <tr>
+    <td align="left" width="80%">
+    <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td class="BreadCrumb31">
+    &nbsp;
+    </td>
+    <td class="BreadCrumb3">
+    Opciones de Estudiante
+    CSI-1
+    </td>
+    <td class="BreadCrumb32">
+    &nbsp;
+    </td>
+    </tr>
+    </tbody></table>
+    </td>
+    <td style="width:20%;">
+    <center><table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td class="NotaR">
+    <a class="F8_b" href="#">ADRIANA NELY MARTINEZ MUÑOZ(SALIR)</a>
+    </td>
+    </tr>
+    </tbody></table></center>
+    </td>
+    </tr>
+    </tbody></table></center>
+    <center><table width="98%" border="0" cellspacing="2" cellpadding="5">
+    <tbody><tr>
+    <td colspan="2&quot;" valign="Top">
+    <form name="formularioz" method="post" onsubmit="return ValidaFormAlumnos(this);" id="formularioz" action="" autocomplete="off">
+    <center><table border="0" width="60%" cellspacing="1" cellpadding="2">
+    </table></center>
+    <center><table class="d" border="0" width="95%" cellspacing="2" cellpadding="2">
+    <tbody><tr>
+    <td>
+    <center><table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td windth="70%" valign="Top">
+    <center><table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td width="120px">
+    <img src="./assets/img/noimagen.gif">
+    </td>
+    <td>
+    <center><table border="0" width="100%" cellspacing="1" cellpadding="2">
+    <tbody><tr>
+    <td class="TextoGenNL" width="25%">
+    Número de Registro
+    </td>
+    <td class="NotaL">
+    201600479
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Documento de Identidad
+    </td>
+    <td class="NotaL">
+    9785075
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Apellidos y Nombres
+    </td>
+    <td class="NotaL">
+    MARTINEZ MUÑOZ ADRIANA NELY
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Carrera
+    </td>
+    <td class="NotaL">
+    MEDICINA
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Nacionalidad
+    </td>
+    <td class="NotaL">
+    BOLIVIA
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Estado Civil
+    </td>
+    <td class="NotaL">
+    SOLTERO
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Fecha Nacimiento
+    </td>
+    <td class="NotaL">
+    03/05/1999
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Dirección
+    </td>
+    <td class="NotaL">
+    B.TRANSPORTISTA C.4 NO 18
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Teléfono Fijo
+    </td>
+    <td class="NotaL">
+    3564093
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Celular
+    </td>
+    <td class="NotaL">
+    76024281
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Email Externo
+    </td>
+    <td class="NotaL">
+    adrianita_m_m@hotmail.com
+    </td>
+    </tr>
+    <tr>
+    <td class="TextoGenNL" width="25%">
+    Email Interno
+    </td>
+    <td class="NotaL">
+    <span class="Titulos">adriana.martinez@ucb.edu.bo</span>
+    </td>
+    </tr>
+    </tbody></table></center>
+    </td>
+    </tr>
+    </tbody></table></center>
+    </td>
+    <td windth="30%" valign="Top">
+    </td>
+    </tr>
+    </tbody></table></center>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <center><div class="alert alert-danger">
+    <b>Aviso importante:</b> <br><br> - Se le recuerda que para ingresar a la Modalidad de Graduación de su Carrera, debe tener vencido el REQUISITO de Nivel de Inglés B2.<br> Para mayor información, consulte en el DOSE (Departamento de Orientación y Seguimiento de Estudiantes)
+    </div><table border="0" width="50%" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td>
+    </td>
+    </tr>
+    
+    </tbody></table></center>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <center><table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td class="TablitaGenericoLRT" windth="50%" valign="Top">
+    Consultas por Gestión
+    </td>
+    <td class="TablitaGenericoLRT" windth="50%" valign="Top">
+    Consultas Generales
+    </td>
+    </tr>
+    <tr>
+    <td class="bordeFF0" windth="50%" valign="Top">
+    <center><table border="0" width="100%" cellspacing="2" cellpadding="2">
+    <tbody><tr>
+    <td class="NotaNNC" colspan="2">
+    <select name="gestion" size="1" style="font-size: 8pt; font-family: Arial;width=100%;">
+        <option value="-1">ELIGE UNA GESTIÓN....................</option>
+        <option value="801">
+        PRIMERA GESTIÓN DE 2016
+        </option>
+        <option value="811">
+        SEGUNDA GESTIÓN DE 2016
+        </option>
+        <option value="821">
+        PRIMERA GESTIÓN DE 2017
+        </option>
+        <option value="831">
+        SEGUNDA GESTIÓN DE 2017
+        </option>
+        <option value="841">
+        PRIMERA GESTIÓN DE 2018
+        </option>
+        <option value="851">
+        SEGUNDA GESTIÓN DE 2018
+        </option>
+        <option value="861">
+        PRIMERA GESTIÓN DE 2019
+        </option>
+        <option value="871">
+        SEGUNDA GESTIÓN DE 2019
+        </option>
+        <option value="901" selected="">
+        PRIMERA GESTIÓN DE 2021
+        </option>
+        <option value="911">
+        SEGUNDA GESTIÓN DE 2021
+        </option>
+    </select>
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaNN" width="30%">
+    Notas por gestión
+    </td>
+    <td class="NotaNN" width="2%">
+    <input type="radio" name="OptR" value="1">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaNN" width="30%">
+    Materias y horarios
+    </td>
+    <td class="NotaNN" width="2%">
+    <input type="radio" name="OptR" value="2">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaNN" width="30%">
+    Control de asistencia
+    </td>
+    <td class="NotaNN" width="2%">
+    <input type="radio" name="OptR" value="8">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaNN" width="30%">
+    Rendimiento Académico
+    </td>
+    <td class="NotaNN" width="2%">
+    <input type="radio" name="OptR" value="9">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaNN" width="30%">
+    Fechas de Exámenes Finales
+    </td>
+    <td class="NotaNN" width="2%">
+    <input type="radio" name="OptR" value="13">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaINS" colspan="2">
+    <img src="./assets/img/noimagen.gif"> OPCIONES - PERIODO DE INSCRIPCIÓN
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaGrC" width="30%">
+    Programación académica
+    </td>
+    <td class="NotaGrC" width="2%">
+    <input type="radio" name="OptR" value="11">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaGrC" width="30%">
+    Paquetes para inscripción 
+    </td>
+    <td class="NotaGrC" width="2%">
+    <input type="radio" name="OptR" value="12">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaGrC" width="30%">
+    <a href="" target="_blank"> Rol de inscripción</a>
+    </td>
+    <td class="NotaGrC" width="2%">
+     
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaGrC" width="30%">
+    <a href="#" target="_blank"> Iniciar inscripción</a>
+    </td>
+    <td class="NotaGrC" width="2%">
+     
+    </td>
+    </tr>
+    </tbody></table></center>
+    </td>
+    <td class="bordeFF0" windth="50%" valign="Top">
+    <center><table border="0" width="100%" cellspacing="2" cellpadding="2">
+    <tbody><tr>
+    <td class="NotaCA" width="30%">
+    Verificación de Documentos
+    </td>
+    <td class="NotaCA" width="2%">
+    <input type="radio" name="OptR" value="10">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaCA" width="30%">
+    Cotización de deuda
+    </td>
+    <td class="NotaCA" width="2%">
+    <input type="radio" name="OptR" value="3">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaCA" width="30%">
+    Tarifario Económico
+    </td>
+    <td class="NotaCA" width="2%">
+    <input type="radio" name="OptR" value="15">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaCA" width="30%">
+    Histórico Académico
+    </td>
+    <td class="NotaCA" width="2%">
+    <input type="radio" name="OptR" value="4">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaCA" width="30%">
+    Detalle de facturas emitidas por la UCB
+    </td>
+    <td class="NotaCA" width="2%">
+    <input type="radio" name="OptR" value="5">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaCA" width="30%">
+    Modificar Pregunta secreta
+    </td>
+    <td class="NotaCA" width="2%">
+    <input type="radio" name="OptR" value="6">
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaCA" width="30%">
+    Cambio de Contraseña PIN
+    </td>
+    <td class="NotaCA" width="2%">
+    <input type="radio" name="OptR" value="7">
+    </td>
+    </tr>
+    </tbody></table></center>
+    </td>
+    </tr>
+    </tbody></table></center>
+    </td>
+    </tr>
+    <tr>
+    <td class="TablitaEtiquetaC">
+    <input type="submit" value="Mostrar" id="BotonP" name="BotonP">
+    </td>
+    </tr>
+    </tbody></table></center>
+    
+    </form>
+    </td>
+    </tr>
+    </tbody></table></center>
+    
+    
+    
+    
+    
+    </td></tr></tbody></table></center></div></body></html>

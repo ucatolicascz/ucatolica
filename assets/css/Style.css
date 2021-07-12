@@ -1,0 +1,102 @@
+/* tables */
+table.tablesorter
+{
+	font-family: arial;
+	background-color: #CDCDCD;
+	margin: 10px 0pt 15px;
+	font-size: 10px;
+	width: 100%;
+	text-align: left;
+	font-family: tahoma,arial,verdana;
+}
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 10px;
+	/*padding: 4px;*/
+	padding-top:4px;
+	padding-right:18px;
+	padding-bottom:4px;
+	font-family: tahoma,arial,verdana;
+}
+table.tablesorter thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+	font-family: tahoma,arial,verdana;
+}
+table.tablesorter tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+	/*overflow: scroll; */
+	font-family: tahoma,arial,verdana;
+}
+table.tablesorter tbody td.CCC {
+	color: #3D3D3D;
+	padding: 4px;
+	font-size: 10px;
+	background-color: #FFF;
+	vertical-align: top;
+	text-align:right;
+	/*overflow: scroll; */
+	font-family: tahoma,arial,verdana;
+}
+table.tablesorter tbody td.CCC2 {
+	color: #3D3D3D;
+	padding: 4px;
+	font-size: 10px;
+	background-color: #FFF;
+	vertical-align: top;
+	text-align:left;
+	/*overflow: scroll; */
+	font-family: tahoma,arial,verdana;
+}
+
+table.tablesorter tbody td.CCC3
+{
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFFFCC;
+	vertical-align: top;
+	text-align: left; /*overflow: scroll; */
+	font-family: tahoma,arial,verdana;
+}
+table.tablesorter tbody td.CCC4
+{
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FF0033;
+	vertical-align: top;
+	text-align: left; /*overflow: scroll; */
+	font-family: tahoma,arial,verdana;
+}
+table.tablesorter tbody td.CCC5
+{
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+	text-align:right; /*overflow: scroll; */
+	font-family: tahoma,arial,verdana;
+}
+
+table.tablesorter tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter thead tr .headerSortUp 
+{
+	background-image: url(asc.gif);
+}
+table.tablesorter thead tr .headerSortDown 
+{
+	background-image: url(desc.gif);
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp 
+{
+    background-color: #8dbdd8;
+}
+
+

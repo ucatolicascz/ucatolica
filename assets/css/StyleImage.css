@@ -1,0 +1,62 @@
+body
+{
+}
+img
+{
+	border: 0px;
+}
+.pagebody
+{
+
+}
+#wrapheader{background-image: url('../images/cabecera.png');background-repeat: repeat-x;}
+#wrapfooter {background-image: url('../images/pie.png');background-repeat: repeat-x;}
+#wrapfooterright {background-image: url('../images/pieder.png');background-repeat:no-repeat;}
+.Degradegris{background-image: url('../images/NoticiasyEventos.png');background-repeat:no-repeat;}
+.DegradegrisCen{background-image: url('../images/Cenmodulo.png');background-repeat:repeat-y;}
+.DegradegrisPie{background-image: url('../images/Piemodulo.png');background-repeat:no-repeat;}
+.HoyenlaUCB{background-image: url('../images/hoyenlaucb.png');background-repeat:no-repeat;}
+.HoyenlaUCBCEN{background-image: url('../images/hoyenlaucbcen.png');background-repeat:repeat-y;}
+.HoyenlaUCBPIE{background-image: url('../images/hoyenlaucbpie.png');background-repeat:no-repeat;}
+.WebMail{background-image: url('../images/usuario.png');background-repeat:no-repeat;}
+.Convenios{background-image: url('../images/Becasyconvenios.png');background-repeat:no-repeat;}
+.Agenda{background-image: url('../images/agendauniversitaria.png');background-repeat:no-repeat;}
+.BordeLT{background-image: url('../images/borde/BordeLT.png');background-repeat:no-repeat;}
+.BordeCT{background-image: url('../images/borde/BordeCT.png');background-repeat:repeat-x;}
+.BordeRT{background-image: url('../images/borde/BordeRT.png');background-repeat:no-repeat;}
+.BordeCL{background-image: url('../images/borde/BordeCL.png');background-repeat:repeat-y;}
+.BordeCR{background-image: url('../images/borde/BordeCR.png');background-repeat:repeat-y;}
+.BordeLB{background-image: url('../images/borde/BordeLB.png');background-repeat:no-repeat;}
+.BordeCB{background-image: url('../images/borde/BordeCB.png');background-repeat:repeat-x;}
+.BordeRB{background-image: url('../images/borde/BordeRB.png');background-repeat:no-repeat;}
+#search_bg {
+}
+.search_bg1 {
+	background: url(../images/with_search1.png) no-repeat top left;
+}
+
+
+#search .search .inputbox {
+	background: url(../images/search_box.png) no-repeat top left;
+}
+
+#search .search input.button {
+	background: url(../images/search_button.png) no-repeat top left;
+}
+
+.inputbox1 {
+	background: url(../images/search_button2.png) no-repeat top left;
+}
+
+.botton {
+	background: url(../images/search_button.png) no-repeat top left;
+}
+.BreadCrumb31
+{
+    background: url(../images/breadleft.png) no-repeat top left;
+}
+
+.BreadCrumb32
+{
+    background: url(../images/breadright.png) no-repeat top left;
+}

@@ -1,0 +1,819 @@
+a.F8_b         {TEXT-DECORATION: none; FONT-SIZE:0.8em;}
+a.F8_b:Active  {COLOR: #FF0000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.8em;FONT-WEIGHT: Bolder;}
+a.F8_b:link    {COLOR: #FF0000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.8em;FONT-WEIGHT: Bolder;}
+a.F8_b:visited {COLOR: #FF0000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.8em;FONT-WEIGHT: Bolder;}
+a.F8_b:hover   {COLOR: #FF0000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.8em;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+a.F9_b         {TEXT-DECORATION: none; FONT-SIZE:0.9em;}
+a.F9_b:Active  {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Bolder;}
+a.F9_b:link    {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Bolder;}
+a.F9_b:visited {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Bolder;}
+a.F9_b:hover   {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+a.F10_n         {TEXT-DECORATION: none; FONT-SIZE:10px;}
+a.F10_n:Active  {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Normal;}
+a.F10_n:link    {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Normal;}
+a.F10_n:visited {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Normal;}
+a.F10_n:hover   {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Normal;TEXT-DECORATION: underline;}
+
+#formo{width: 180px;border: 1px solid #C6E9FF;background-color: #eaf5fb;
+color: #000;text-align: center;}
+fieldset{border: 0px solid #000;}
+legend{color: #304A78;font-weight:bold;margin:5px 0 0 15px;}
+div.medidas {margin:5px 0;}
+div.medidas label{width:70px;text-align:right;}
+div.medidas input{width:100px;}
+div.check{display:none;}
+input#login{margin:5px 0;border: 1px solid #27518A;
+background: #ccc url(fondoBoton.jpg) repeat-x;}
+
+.TablitaTexto    {   BACKGROUND-COLOR: #f6cb47;
+                     FONT-FAMILY: Arial,Tahoma;
+                      FONT-SIZE: 12px;
+                    FONT-WEIGHT: Bold;
+                          COLOR: #392C5A;
+                     TEXT-ALIGN: Left;}
+                     
+.CuerpoNota {       FONT-FAMILY: Arial,Tahoma;
+                      FONT-SIZE: 12px;
+                    FONT-WEIGHT: Normal;
+                          COLOR: #000000;
+                     TEXT-ALIGN: Left;}
+.TablitaEtiqueta { BACKGROUND-COLOR:#f6cb47;
+                    FONT-FAMILY: Arial,Tahoma;
+                      FONT-SIZE: 12px;
+                    FONT-WEIGHT: Bold;
+                          COLOR: #000000;
+                     TEXT-ALIGN: Left;}
+                     
+                 
+                                     
+.Linka  { BACKGROUND-COLOR: #6699cc;  
+                 FONT-FAMILY: Arial,Verdana,Helvetica;
+                   FONT-SIZE: 6.5pt;
+                  TEXT-ALIGN: Center;
+                       COLOR: #006400}      
+
+.Linka1  { BACKGROUND-COLOR:#efba04;  
+                 FONT-FAMILY: Arial,Verdana,Helvetica;
+                   FONT-SIZE: 6.5pt;
+                  TEXT-ALIGN: Center;
+                       COLOR: #ffff00}       
+
+.Linka2  { BACKGROUND-COLOR:#00477f;  
+                 FONT-FAMILY: Arial,Verdana,Helvetica;
+                   FONT-SIZE: 6.5pt;
+                  TEXT-ALIGN: Center;
+                       COLOR: #ffca08;}     
+                       
+
+.BBrIzq1{  BACKGROUND-COLOR: #f7f7ff;
+                BORDER-BOTTOM: #191970 thin solid 1pt;
+                 BORDER-RIGHT: #191970 thin solid 1pt;
+                   BORDER-LEFT: #191970 thin solid 1pt;
+                        COLOR: #000000;
+                  FONT-FAMILY: Arial;
+                    FONT-SIZE: 7pt;
+                   TEXT-ALIGN: Center;}                  
+
+.BBrCen2{  BACKGROUND-COLOR: #f7f7ff;
+                BORDER-BOTTOM: #191970 thin solid 1pt;
+                 BORDER-RIGHT: #191970 thin solid 1pt;
+                        COLOR: #000000;
+                  FONT-FAMILY: Arial;
+                    FONT-SIZE: 7pt;
+                   TEXT-ALIGN: Left;}
+                   
+.BBrCen1{  BACKGROUND-COLOR: #f7f7ff;
+                BORDER-BOTTOM: #191970 thin solid 1pt;
+                 BORDER-RIGHT: #191970 thin solid 1pt;
+                        COLOR: #000000;
+                  FONT-FAMILY: Arial;
+                    FONT-SIZE: 7pt;
+                   TEXT-ALIGN: Center;}   
+                   
+Td.MenuT{   BACKGROUND-IMAGE: url(/imagenes/images/Menu/sup_med.gif);
+         BACKGROUND-POSITION: center;
+                       COLOR: #002b71;
+                      height: 65px;
+                 FONT-FAMILY: Helvetica;
+                   FONT-SIZE: 12pt;
+                 FONT-WEIGHT: Bold;
+                  TEXT-ALIGN: center;
+              LETTER-SPACING: 2px;}
+
+Td.MenuCSL{ BACKGROUND-IMAGE: url(/imagenes/images/Menu/sup_izq.gif);
+                   FONT-SIZE: 7.5pt;
+         BACKGROUND-POSITION: Top Left;
+                      height: 65px;
+                       WIDTH: 22px;}
+                       
+Td.MenuCSD{ BACKGROUND-IMAGE: url(/imagenes/images/Menu/sup_der.gif);
+                   FONT-SIZE: 7.5pt;
+         BACKGROUND-POSITION: Top Rigth;
+                      height: 65px;
+                       WIDTH: 23px;}
+
+Td.MenuCL{  BACKGROUND-IMAGE: url(/imagenes/images/Menu/med_izq.gif);
+                   FONT-SIZE: 7.5pt;
+         BACKGROUND-POSITION: Top Left;
+                       WIDTH: 22px;}
+
+
+Td.MenuCD{  BACKGROUND-IMAGE: url(/imagenes/images/Menu/med_der.gif);
+                   FONT-SIZE: 7.5pt;
+         BACKGROUND-POSITION: Top Right;
+                       WIDTH: 23px;}
+
+Td.MenuPD{  BACKGROUND-IMAGE: url(/imagenes/images/Menu/inf_DER.gif);
+                   FONT-SIZE: 7.5pt;
+         BACKGROUND-POSITION: Top Right;
+                       WIDTH: 23px;}
+
+Td.MenuPL{  BACKGROUND-IMAGE: url(/imagenes/images/Menu/inf_izq.gif);
+                   FONT-SIZE: 7.5pt;
+         BACKGROUND-POSITION: Top Right;
+                       WIDTH: 22px;}
+Td.MenuP{  BACKGROUND-IMAGE: url(/imagenes/images/Menu/med_inf.gif);
+          BACKGROUND-POSITION: Top center;
+                       COLOR: #002b71;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}                       
+                                           
+a.F10_b         {TEXT-DECORATION: none; FONT-SIZE:10px;}
+a.F10_b:Active  {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Bolder;}
+a.F10_b:link    {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Bolder;}
+a.F10_b:visited {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Bolder;}
+a.F10_b:hover   {COLOR: #ffffff; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 0.9em;FONT-WEIGHT: Bolder;TEXT-DECORATION: underline;}
+
+a.F12_n         {TEXT-DECORATION: none; FONT-SIZE:12px;}
+a.F12_n:Active  {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;}
+a.F12_n:link    {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;}
+a.F12_n:visited {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;}
+a.F12_n:hover   {COLOR: #000000; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 12px;FONT-WEIGHT: Normal;TEXT-DECORATION: underline;}
+
+a.F10_b         {TEXT-DECORATION: none; FONT-SIZE:10px;}
+a.F10_b:Active  {COLOR: #FFFFFF; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Normal;}
+a.F10_b:link    {COLOR: #FFFFFF; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Normal;}
+a.F10_b:visited {COLOR: #FFFFFF; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Normal;}
+a.F10_b:hover   {COLOR: #FFFFFF; FONT-FAMILY: Arial, Tahoma; FONT-SIZE: 10px;FONT-WEIGHT: Normal;TEXT-DECORATION: underline;}
+
+.NotaL{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Left;}
+                  
+.NotaL1{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 6.5pt;
+                  TEXT-ALIGN: Left;}
+
+.NotaL2{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 6.5pt;
+                  TEXT-ALIGN: Left;}
+
+.NotaL10{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Left;}
+                  
+.NotaC{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Center;}
+.NotaC1{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 6.5pt;
+                  TEXT-ALIGN: Center;}                  
+                  
+.NotaR{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: right;}                      
+.NotaR1{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: right;} 
+.NotaCA{  BACKGROUND-COLOR: #f6cb47;
+                       COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Center;}
+.NotaCAA{  BACKGROUND-COLOR: #F4F4F4;
+                       COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: Center;}
+.NotaCAA1{  BACKGROUND-COLOR: #F4F4F4;
+                       COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: left;}
+.NotaCA2{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: Center; }                  
+
+.NotaCA3{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: Left;}   
+.NotaCA4 {		 border-top: dotted 1px #000000;
+	             COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: Center;}                  
+
+.NotaCA5
+{					border-top: dotted 1px #000000;
+	                   COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: Left;}
+.NotaCAA2
+        {          border-top: dotted 1px #000000;
+	        background-color: #F4F4F4;
+                       COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: Center;}
+.NotaCAA21
+        {        
+	        background-color: #F4F4F4;
+                       COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: Center;}
+                  
+.NotaCAA3{  border-top: dotted 1px #000000;
+	 background-color: #F4F4F4;
+                       COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: left;}
+.NotaCAA31{ 
+	 background-color: #F4F4F4;
+                       COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: left;}                  
+.NotaNN{  BACKGROUND-COLOR: #336699;
+                       COLOR: #ffffff;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Center;}   
+.NotaNNL{  BACKGROUND-COLOR: #dcdcdc;
+                       COLOR: #ffffff;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: left;}                                   
+
+.NotaNNC{  BACKGROUND-COLOR: #dcdcdc;
+                       COLOR: #002b71;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Center;}                                                                                        
+.NotaGrC{  BACKGROUND-COLOR: #dcdcdc;
+                       COLOR: #002b71;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Center;} 
+.NotaMN{  BACKGROUND-COLOR: #f0e68c;
+                       COLOR: #002b71;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Left;}  
+                
+
+.NotaGrL{  BACKGROUND-COLOR: #dcdcdc;
+                       COLOR: #002b71;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Left;}
+
+.NotaRN{             COLOR: #000000;
+                 FONT-WEIGHT: bold;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 12px;
+                  TEXT-ALIGN: right;}
+.NotaHotC{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 9px;
+                  TEXT-ALIGN: Center;}
+.NotaHotL{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 9px;
+                  TEXT-ALIGN: Left;}                  
+.NotaR1{              COLOR: #000000;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7pt;
+                  TEXT-ALIGN: right;}                  
+td.Img1{    BACKGROUND-COLOR: #d2b48c;
+            BACKGROUND-IMAGE: url(/imagenes/images/subtitulo1.jpg);
+         BACKGROUND-POSITION: right center;
+                       COLOR: #ffffff;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}
+
+td.Img2{    BACKGROUND-COLOR: #d2b48c;
+            BACKGROUND-IMAGE: url(/imagenes/images/subtitulo2.jpg);
+         BACKGROUND-POSITION: right center;
+                       COLOR: #ffff00;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}
+
+td.Img3{    BACKGROUND-COLOR: #d2b48c;
+            BACKGROUND-IMAGE: url(/imagenes/images/subtitulo3.jpg);
+         BACKGROUND-POSITION: right center;
+                       COLOR: navy;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}
+  
+td.Img4{    BACKGROUND-COLOR: #d2b48c;
+            BACKGROUND-IMAGE: url(/imagenes/images/subtitulo4.jpg);
+         BACKGROUND-POSITION: right center;
+                       COLOR: navy;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}
+  
+td.Img5{    BACKGROUND-COLOR: #d2b48c;
+            BACKGROUND-IMAGE: url(/imagenes/images/subtitulo5.jpg);
+         BACKGROUND-POSITION: right center;
+                       COLOR: navy;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}
+
+td.Img6{    BACKGROUND-COLOR: #d2b48c;
+            BACKGROUND-IMAGE: url(/imagenes/images/subtitulo6.jpg);
+         BACKGROUND-POSITION: right center;
+                       COLOR: navy;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}
+
+td.Img7{    BACKGROUND-COLOR: #d2b48c;
+            BACKGROUND-IMAGE: url(/imagenes/images/subtitulo7.jpg);
+         BACKGROUND-POSITION: right center;
+                       COLOR: navy;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}   
+                  
+td.Img8{    BACKGROUND-COLOR: #d2b48c;
+            BACKGROUND-IMAGE: url(/imagenes/images/subtitulo8.jpg);
+         BACKGROUND-POSITION: right center;
+                       COLOR: navy;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}    
+
+td.Img9{    BACKGROUND-COLOR: #d2b48c;
+            BACKGROUND-IMAGE: url(/imagenes/images/subtitulo2.jpg);
+         BACKGROUND-POSITION: right center;
+                       COLOR: #ffff00;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 7.5pt;
+                 FONT-WEIGHT: bold;
+                  TEXT-ALIGN: center;}                    
+.blinkytext {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.2em;
+     text-decoration: blink;
+     font-style: normal;
+ }         
+ 
+ .verde
+{
+	background-color: #00CC00;
+	color:Black;
+	font-family: Arial;
+	font-size: 5pt;
+	text-align: left;
+}             
+ .naranja
+{
+	background-color: #FF9900;
+	color: #000000;
+	font-family: Arial;
+	font-size: 5pt;
+	text-align: left;
+}  
+ .gris
+{
+	background-color: #CCCCCC;
+	color:#000000;
+	font-family: Arial;
+	font-size: 5pt;
+	text-align: left;
+}  
+ .amarillo
+{
+	background-color: #FFFF00;
+	color: #000000;
+	font-family: Arial;
+	font-size: 5pt;
+	text-align: left;
+} 
+
+.rosado
+{
+	background-color: #FFCCCC;
+	color: #000000;
+	font-family: Arial;
+	font-size: 5pt;
+	text-align: left;
+} 
+
+ .Celeste
+{
+	background-color: #99CCFF;
+	color: #000000;
+	font-family: Arial;
+	font-size: 5pt;
+	text-align: left;
+} 
+   
+ .Direccion
+{
+	background-color: #FFCC00;
+	color: #000000;
+	font-family: Arial;
+	font-size: 8pt;
+	text-align: left;
+}     
+
+ .Morado
+{
+	background-color: #B36C93;
+	color: #000000;
+	font-family: Arial;
+	font-size: 5pt;
+	text-align: left;
+}     
+
+ .Rojo
+{
+	background-color: #FF3300;
+	color: #000000;
+	font-family: Arial;
+	font-size: 5pt;
+	text-align: left;
+}   
+ .Plomo
+{
+	background-color: #a7a4a4;
+	color: #fff;
+	font-family: Arial;
+	font-size: 5pt;
+	text-align: left;
+} 
+TABLE.d { border-collapse: collapse;
+          BORDER-BOTTOM: #002b71 1pt solid;
+            BORDER-LEFT: #002b71 1pt solid;
+           BORDER-RIGHT: #002b71 1pt solid;
+             BORDER-TOP: #002b71 1pt solid;}
+.files{
+	padding:4px;
+	margin:0px;
+	background-color:#e0dfdc;
+}
+
+
+.h_iframe        {display:block;
+                  width:100%;
+                  height:100%;
+}
+
+
+#wrap {  
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+#frame {  
+    -ms-zoom: 0.5;
+    -ms-transform-origin: 0 0;
+    -moz-transform: scale(0.5);
+    -moz-transform-origin: 0px 50px;
+    -o-transform: scale(0.5);
+    -o-transform-origin: 0px 50px;
+    -webkit-transform: scale(0.5);
+    -webkit-transform-origin: 0 0;
+}
+#frame {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.ciamarillo {
+color:#000000;
+background-color:#f6a30e;
+}
+.civerde {
+color:#FFFFFF;
+background-color:#0b9605;
+}
+.cirojo {
+color:#FFFFFF;
+background-color:#e83636;
+}
+
+.NotaINS{  BACKGROUND-COLOR: #3c6731;
+                       COLOR: #ffffff;
+                       font-weight:bold;
+                 FONT-FAMILY: Arial;
+                   FONT-SIZE: 8pt;
+                  TEXT-ALIGN: Center;}
+
+.disabled {
+    background: #ababab !important;
+    color:#999;
+}
+
+
+.latable {
+    width:100%;
+    max-width:100%;
+    margin-bottom: 1em;
+    background-color: transparent;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out
+}
+.btn:focus,
+.btn:hover {
+    text-decoration: none
+}
+
+.btn.focus,
+.btn:focus {
+    outline: 0;
+    box-shadow: 0 0 0 .2rem rgba(0, 123, 255, .25)
+}
+
+.btn.disabled,
+.btn:disabled {
+    opacity: .65
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer
+}
+
+a.btn.disabled,
+fieldset:disabled a.btn {
+    pointer-events: none
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc
+}
+
+.btn-primary.focus,
+.btn-primary:focus {
+    box-shadow: 0 0 0 .2rem rgba(0, 123, 255, .5)
+}
+
+.btn-primary.disabled,
+.btn-primary:disabled {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #0062cc;
+    border-color: #005cbf
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(0, 123, 255, .5)
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #218838;
+    border-color: #1e7e34
+}
+
+.btn-success.focus,
+.btn-success:focus {
+    box-shadow: 0 0 0 .2rem rgba(40, 167, 69, .5)
+}
+
+.btn-success.disabled,
+.btn-success:disabled {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745
+}
+
+.btn-success:not(:disabled):not(.disabled).active,
+.btn-success:not(:disabled):not(.disabled):active,
+.show>.btn-success.dropdown-toggle {
+    color: #fff;
+    background-color: #1e7e34;
+    border-color: #1c7430
+}
+
+.btn-success:not(:disabled):not(.disabled).active:focus,
+.btn-success:not(:disabled):not(.disabled):active:focus,
+.show>.btn-success.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(40, 167, 69, .5)
+}
+.btn-sm {
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem
+}
+
+.btn-outline-primary {
+    color: #007bff;
+    background-color: transparent;
+    background-image: none;
+    border-color: #007bff
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff
+}
+
+.btn-outline-primary.focus,
+.btn-outline-primary:focus {
+    box-shadow: 0 0 0 .2rem rgba(0, 123, 255, .5)
+}
+
+.btn-outline-primary.disabled,
+.btn-outline-primary:disabled {
+    color: #007bff;
+    background-color: transparent
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.show>.btn-outline-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active:focus,
+.btn-outline-primary:not(:disabled):not(.disabled):active:focus,
+.show>.btn-outline-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(0, 123, 255, .5)
+}
+
+
+.btn-outline-success {
+    color: #28a745;
+    background-color: transparent;
+    background-image: none;
+    border-color: #28a745
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745
+}
+
+.btn-outline-success.focus,
+.btn-outline-success:focus {
+    box-shadow: 0 0 0 .2rem rgba(40, 167, 69, .5)
+}
+
+.btn-outline-success.disabled,
+.btn-outline-success:disabled {
+    color: #28a745;
+    background-color: transparent
+}
+
+.btn-outline-success:not(:disabled):not(.disabled).active,
+.btn-outline-success:not(:disabled):not(.disabled):active,
+.show>.btn-outline-success.dropdown-toggle {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745
+}
+
+.btn-outline-success:not(:disabled):not(.disabled).active:focus,
+.btn-outline-success:not(:disabled):not(.disabled):active:focus,
+.show>.btn-outline-success.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(40, 167, 69, .5)
+}
+
+.btn-outline-info {
+    color: #17a2b8;
+    background-color: transparent;
+    background-image: none;
+    border-color: #17a2b8
+}
+
+.btn-outline-info:hover {
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8
+}
+
+.btn-outline-info.focus,
+.btn-outline-info:focus {
+    box-shadow: 0 0 0 .2rem rgba(23, 162, 184, .5)
+}
+
+.btn-outline-info.disabled,
+.btn-outline-info:disabled {
+    color: #17a2b8;
+    background-color: transparent
+}
+
+.btn-outline-info:not(:disabled):not(.disabled).active,
+.btn-outline-info:not(:disabled):not(.disabled):active,
+.show>.btn-outline-info.dropdown-toggle {
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8
+}
+
+.btn-outline-info:not(:disabled):not(.disabled).active:focus,
+.btn-outline-info:not(:disabled):not(.disabled):active:focus,
+.show>.btn-outline-info.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(23, 162, 184, .5)
+}
+
+textarea.form-control {
+    height: auto;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}

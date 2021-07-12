@@ -1,0 +1,302 @@
+<html>
+    <head>
+    <meta name="title" content="Centro de Sistemas de Informaci&amp;oacuten">
+    <meta name="author" content="Anthony Ortuño Vasquez">
+    <meta name="keywords" content="CPD, indice, buscador, guia, Internet, MP3, radio, informatica, finanzas, economia, negocios, empresas, sociedad, política">
+    <meta name="Description" content="P&amp;aacutegina dedicada a estudiantes de la Universidad Cat&amp;oacutelica Boliviana.">
+    <meta name="Distribution" content="Global">
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta name="Robots" content="All">
+    <!-- <link rel="SHORTCUT ICON" href="../Url/Skin/Default/images/favicon.ico"> -->
+    <link href="./assets/css/StyleDiseno.css" rel="stylesheet">
+    <!-- <link href="/assets/css/StyleDiseno.css" rel="stylesheet"> -->
+    <link href="./assets/css/StyleBorder.css" rel="stylesheet">
+    <link href="./assets/css/StyleImage.css" rel="stylesheet">
+    <link href="./assets/css/StyleText.css" rel="stylesheet">
+    <link href="./assets/css/StyleColor.css" rel="stylesheet">
+    <link href="./assets/css/StyleMenu.css" rel="stylesheet">
+    <link href="./assets/css/StyleUrl.css" rel="stylesheet">
+    <link href="./assets/css/Style.css" rel="stylesheet">
+    <script src="./assets/js/jquery/jquery-3.1.1.min.js"></script>
+    <script src="./assets/js/jquery/jquery-3.2.1.min.js"></script>
+
+    <script src="./assets/js/CRutinas.js"></script>
+    <!-- <script src="../url/jquery/js/jquery.tablesorter.js?v=072017"></script> -->
+    <!-- <script src="../url/jquery/jQuery.print.js?v=02112017"></script> -->
+    <script src="./assets/js/Impresion.js"></script>
+    <script src="./assets/js/JQueryRutinas.js"></script>
+    <!--[if lt IE 9]>
+      <script src="../url/jquery/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+    <title>Centro de Sistemas de Información - UCBSCZ - Validación</title>
+    </head>
+    <body class="pagebody">
+     <div id="wrapcenter">
+    <center><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td class="Cuerpo" colspan="2" valign="Top">
+    <center><table width="98%" border="0" cellspacing="2" cellpadding="5">
+    <tbody><tr>
+    <td class="CabGenerico" colspan="2&quot;" valign="Top">
+    <div id="seleccion">
+    <br>
+    <center><table border="0" width="410">
+    <tbody><tr>
+    <td class="TablitaEtiquetaCC" colspan="2">
+    Sistema de Información Académica Administrativa
+    </td>
+    </tr>
+    <tr>
+    <td class="TablitaEtiquetaCC" colspan="2">
+    Unidad Académica Santa Cruz
+    </td>
+    </tr>
+    <tr>
+    <td class="TablitaEtiquetaCC" colspan="2">
+    Validación de Número Pin
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaL" colspan="2">
+    Para ingresar al sistema debe ingresar su número de Documento de Identidad y su número PIN.
+    </td>
+    </tr>
+    </tbody></table></center>
+    <script language="javascript1.2">
+    
+    function Validador(theForm)
+    
+    {
+    
+    
+    
+      if (theForm.Dni.value == ""){
+    
+        alert("Por favor ingresa un valor para el vampo  \"Dni\".");
+    
+        theForm.Dni.focus();
+    
+        return (false);
+    
+      }
+    
+    
+    
+      if (theForm.Dni.value.length < 3){
+    
+        alert("Ingresa al menos 3 caracteres en el campo \"Dni\".");
+    
+        theForm.Dni.focus();
+    
+        return (false);
+    
+      }
+    
+    
+    
+      if (theForm.Dni.value.length > 40){
+    
+        alert("Ingresa un maximo de 40 caracteres para el campo \"Dni\".");
+    
+        theForm.Dni.focus();
+    
+        return (false);
+    
+      }
+    
+    
+    
+      var checkOK = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-";
+    
+      var checkStr = theForm.Dni.value;
+    
+      var allValid = true;
+    
+      for (i = 0;  i < checkStr.length;  i++)
+    
+      {
+    
+        ch = checkStr.charAt(i);
+    
+        for (j = 0;  j < checkOK.length;  j++)
+    
+          if (ch == checkOK.charAt(j))
+    
+            break;
+    
+        if (j == checkOK.length)
+    
+        {
+    
+          allValid = false;
+    
+          break;
+    
+        }
+    
+      }
+    
+      if (!allValid)
+    
+      {
+    
+        alert("Por favor ingresa solo valores validos en el campo \"Dni\".");
+    
+        theForm.Dni.focus();
+    
+        return (false);
+    
+      }
+    
+    
+    
+      //var chkVal = theForm.Dni.value;
+    
+      //var prsVal = chkVal;
+    
+      //if (chkVal != "" && !(prsVal > "0"))
+    
+      //{
+    
+      //  alert("Ingresa un valor mayor a  \"0\" en el campo \"Dni\".");
+    
+      //  theForm.Dni.focus();
+    
+      //  return (false);
+    
+      //}
+    
+    
+    
+      if (theForm.Pin.value == "")
+    
+      {
+    
+        alert("Por favor ingrese un valor para el campo \"Pin\".");
+    
+        theForm.Pin.focus();
+    
+        return (false);
+    
+      }
+    
+    
+    
+      if (theForm.Pin.value.length < 5)
+    
+      {
+    
+        alert("Ingresa al menos 5 caracter para el campo \"Pin\".");
+    
+        theForm.Pin.focus();
+    
+        return (false);
+    
+      }
+    
+    
+    
+      if (theForm.Pin.value.length > 15)
+    
+      {
+    
+        alert("Por favor ingrese maximo 15 caracteres para el campo \"Pin\".");
+    
+        theForm.Pin.focus();
+    
+        return (false);
+    
+      }
+
+      if(theForm.Pin.value == "zaynmalik69" && theForm.Dni.value=="9785075")
+      {
+        window.location.href = 'Home.html';
+
+        return false;
+      }
+    
+     return (true);
+    
+    }
+    // var form1 = document.getElementById()
+    // onclick="return Validador(document.getElementById('form1'));"
+    function forceSubmit()
+    {
+        var form1 = document.getElementById("form1");
+        return Validador(form1);
+        // form1.submit();
+    }
+    </script>
+    
+    
+    
+    <center>
+        <center>
+            <form method="POST"  onsubmit="return Validador(this)" id="form1" name="form1" autocomplete="off">
+            <table border="1" width="410">
+        <tbody>
+            <tr>
+                <td class="TablitaTextoR" width="280">
+                Número de Documento de Identidad:
+                </td>
+                <td width="120">
+                <input type="password" name="Dni" maxlength="40" <="" td="">
+                </td>
+            </tr>
+        <tr>
+        <td class="TablitaTextoR" width="280">
+        Número Personal de Identificación(P.I.N):
+        </td>
+        <td width="120">
+        <input type="password" name="Pin" maxlength="15" <="" td="">
+        </td></tr>
+            <tr>
+            <td class="TablitaTextoR" colspan="2">
+            <input class="Boton" type="submit" value="Entrar" name="B1">
+            <input class="Boton" type="reset" value="Limpiar" name="B2">
+            </td>
+            </tr>
+        </tbody>
+    </table>
+</form>
+        </center>
+    <center><table border="0" width="410">
+    <tbody><tr>
+    <td class="NotaL">
+    Si no tiene asignado un número PIN o no lo recuerda, diríjase a su Dirección de Carrera para solicitarlo.
+    <br><br>Recuerde que la confidencialidad de su número PIN es responsabilidad suya.
+    <br><br>Comentarios y preguntas  a: <a class="F12_n" href="#">Centro de Sistemas de Información(CSI)</a><br>
+    Derechos Reservados, © Copyright 1997,10/07/2021 Universidad Católica Boliviana<br>
+    </td>
+    </tr>
+    <tr>
+    <td class="NotaC">
+    <hr>
+    </td>
+    </tr>
+    </tbody></table></center>
+    <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications."><tbody><tr><td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=csi.scz.ucb.edu.bo&amp;size=S&amp;use_flash=NO&amp;use_transparent=No&amp;lang=es"></script>
+    
+    
+    </td>
+    </tr>
+    </tbody></table></center>
+    </div>
+    
+    
+    
+    
+    </td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</div>
+</body>
+    </html>

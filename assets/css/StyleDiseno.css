@@ -1,0 +1,240 @@
+body { margin: 0px 0px 0px 0px;  min-width:1024px;}
+#wrapwebsite { margin: 15px auto; width: 95%; min-width:1024px; }
+#wrapheader {position: relative; clear:left; width: 100%;height: 164px; 
+	margin: 0; padding: 0;  min-width:96px;}
+#wrapcenter { background-color: white; margin: 0px 0px 0px 0px; clear:left; min-height: 300px;  }
+#wrapfooter { }
+.Degradegris{height:45px;}
+.DegradegrisPie{height:10px;}
+.HoyenlaUCB{height:45px;}
+.HoyenlaUCBCEN{height:1px;}
+.HoyenlaUCBPIE{height:35px;}
+
+.BordeLT{height:12px; width:12px;}
+.BordeCT{height:12px;}
+.BordeRT{height:12px; width:12px;}
+.BordeCL{width:12px;}
+.BordeCR{width:12px;}
+.BordeLB{height:12px; width:12px;}
+.BordeCB{height:12px;}
+.BordeRB{height:12px; width:12px;}
+
+.WebMail{height:45px;}
+.Convenios{height:45px;}
+.Agenda{height:45px;}
+.leftside { float:left; width:28%; margin: 10px 5px 0px 0px;}
+.center-nomargins {float:left; width: 100%;}
+.center-rightandleftmargins {float:left; width: 40%; margin: 10px 5px 0px 5px; }
+.center-rightmargin {float:left; width: 70%; margin: 10px 0px 0px 5px;}
+.center-leftmargin { float:left; width: 70%; margin: 10px 0px 0px 5px; }
+.rightside { float:right; width:28%;  margin: 10px 0px 0px 0px;  }
+.clear { clear:both; }
+.sitelogo { float:left; margin: 0px 0px 0px 0px; }
+.siteheading { margin: 0px 0px 0px 0px; padding: 20px 0px 0px 0px; }
+h1.siteheading {float:left; margin: 0; padding: 56px 0px 0px 40px; }
+.topnav {position: absolute; top:10px; right:0px; margin: 4px 10px 3px 0px;}
+.topnav ul {float:left; margin: 0px 0px 0px 0px; display:inline; padding: 0px;}
+li.topnavitem {float: left;  list-style-type:none; padding: 0px 7px 0px 7px;}
+li.firstnav {float: left;  list-style-type:none; padding: 0px 7px 0px 5px; }
+.editpanel {float:right;position: absolute; width:192px; top:40px; right:0px;}
+div.addthisbutton {position: absolute; top:60px; right:10px; }
+#breadcrumb { padding: 4px 4px 4px 4px;  }
+fieldset { margin: 0px 0px 0px 0px; padding: 0em;  border:solid 1px blue;}
+.settinglabel {float:left; clear:left; width:20em; padding: 1px;text-align:right; }
+.settinglabelFixedHeight {float:left; clear:left; width:20em; padding: 1px; height:77px;}
+.settingrow { padding: 0px 0px 2px 2px; clear:left; }
+.settinglabeltight {float:left; clear:left; width:8em; padding: 1px; font-weight:bold; }
+.settingrowtight { padding: 1px 0px 1px 0px; clear:left; }
+.modulebuttonrow {clear: left; }
+.div2columnleft { float: left; width: 350px;  padding: 1px;  }
+.div2columnright { margin: 0px 0px 0px 305px;  padding: 1px; }
+.modulepager {vertical-align:top; padding: 4px 4px 4px 4px; }
+h1, h2, h3, h4 p { padding: 0;margin: 10px 15px; }
+.TextLabel { width:15px; }
+.watermarktextbox {width:9em; }
+.moduleedit { height: 28px; margin: 0px; padding: 0px; }
+h2.moduletitle { padding: 4px 0px 4px 5px; clear:both;}
+h2.moduletitle {padding: 0px 0 3px 25px; margin: 0px 0px 0px 0px;}
+.modulesubtitle { padding: 4px 5px 0px 5px; height: 23px;} 
+.modulecontent { vertical-align:top; width:300px; padding: 4px 4px 4px 4px;  }
+.modulefooter { display:none; }
+.floatpanel { float:left; margin-right: 15px; }
+.clearpanel { clear:left; padding-top: 15px;  }
+.simplelist, .simplelist li { list-style: none; padding: 0px 0px 4px 10px;  }
+ul.linkitem { list-style: none; margin: 0px 0px 0px 0px; }
+div.sitemap ul , div.sitemap ul li {list-style: none; }
+.site-statistics { margin: 0px 0px 5px 0px; padding: 0px 0px 5px 0px; }
+ul.userstats { list-style-type:none;  margin: 0px 0px 0px -40px;}
+ul.userstats ul { margin: 0; padding: 0; display: block; }
+ul.userstats li { position: relative; list-style: none; }
+ul.linkitem 
+{position:relative; top: -6px; left: 0px; list-style:none;margin:10px ;padding:0px;}
+ul.linkitem li 
+{margin: 0px 0px 1px 0px;padding: 2px 0px 2px 0px;list-style: none;min-height:18px;}
+ul.linkitem a { padding: 2px 5px 2px 10px;}
+* html body ul.linkitem a { height: 18px; }
+ul.linkitem a:hover {padding:2px 5px 2px 10px;}
+code {margin: 5px 0;padding: 10px; text-align: left;display: block;overflow: auto;  
+  font: 500 1em/1.5em 'Lucida Console', 'courier new', monospace;
+  background: #FAFAFA; border: 1px solid #EAEAEA;  border-left: 5px solid #72A545;}
+acronym {cursor: help;border-bottom: 1px solid #777;}
+blockquote {margin: 15px; padding: 0 0 0 32px;  	
+  	background: #FAFAFA url(quote.gif) no-repeat 5px 10px !important; 
+	background-position: 8px 10px; border: 1px solid #EAEAEA; 
+	border-left: 5px solid #72A545;  font-weight: bold; }
+#wrapfooter { clear: both;height: 53px;margin: 0;}
+#wrapfooterright {float:right; width:452px; height: 53px; margin: 0;}
+.logolist {display:none; }
+.breadcrumbs { padding: 4px 4px 10px 4px;  }
+div.panelwrapper ul.simplelist { margin-bottom:0px; }
+table.editgrid { margin: 10px;  }
+table.editgrid td {padding: 7px;  }
+table.editgrid th {padding: 7px;font-weight:bold; }
+.minheightpanel { min-height:200px; }
+.gmaptextbox {width:27em; }
+.gmap { margin: 0px 0px 10px 0px;}
+.padded {padding: 7px 7px 7px 7px; }
+div.AspNet-RadioButtonList ul, div.AspNet-CheckBoxList ul { list-style-type:none; padding:0px; margin:0px;}
+li.AspNet-RadioButtonList-Item, li.AspNet-CheckBoxList-Item { white-space:nowrap;   }
+.foldergallery a {color: White;}
+img { border: none; }
+.foldergallery h1 { font-size: large; margin-bottom: 20px;}
+.album {}
+.albumFloat { float: left; text-align: center; margin-right: 8px; margin-bottom: 4px; }
+.albumDetailsLink {}
+.albumMetaSectionHead {background-color: Gray;color: White;font-weight: bold; }
+.albumMetaName  { font-weight: bold; }
+.albumMetaValue {}
+.center{text-align: center;}
+div.simplehorizontalmenu {clear: both; width: 100%; height: 27px;}
+ul.simplehorizontalmenu { float: left;list-style: none; margin:0; padding: 0;}
+ul.simplehorizontalmenu li { display: inline; padding: 0px 10px 0px 10px; }	
+ul.simplehorizontalmenu li.selecteditem { font-weight: bold; }
+.vevent { padding: 10px 10px 10px 10px; }
+.smalltextbox { width: 4em; }
+.normaltextbox { width: 10em; }
+.mediumtextbox { width: 15em; }
+.widetextbox { width: 25em; }
+.verywidetextbox { width: 35em; }
+.whoson { float:left; padding: 5px 5px 5px 5px; }
+.ratingcontainer { float: right; }
+.ratingrow { white-space:nowrap; }
+.ratingStar { white-space:nowrap; margin:1em; height:14px;}
+.ratingStar .ratingItem { font-size: 0pt; width: 13px; height: 12px; margin: 0px;padding: 0px; display: block;
+    background-repeat: no-repeat; cursor:pointer;}
+.ratingStar .Filled { background-image: url('ratingStarFilled.png');}
+.ratingStar .Empty { background-image: url('ratingStarEmpty.png');}
+.ratingStar .Saved {  background-image: url('ratingStarSaved.png');}
+.ratingcomments { border: black 1px solid; background-color: #eeeeee; color:#000000; width:300px;height: 210px;padding: 5px;position: absolute;margin-top: 15px; }
+.ratingcommentbox{   width: 280px; height: 100px; }
+.pageicons { display:none; }
+.tag-cloud { list-style-type:none; margin: 15px 0px 3px -30px;}
+.tag-cloud li { display: inline; list-style-type:none;  }
+.tagcount { font-size: x-small;}
+.tag-cloud .weight1 { font-size: 90%; }
+.tag-cloud .weight2 { font-size: 110%; }
+.tag-cloud .weight3 { font-size: 120%; }
+.tag-cloud .weight4 { font-size: 130%; }
+.tag-cloud .weight5 { font-size: 140%; }
+.tag-cloud .weight6 { font-size: 150%; }
+.tag-cloud .weight7 { font-size: 160%; }
+.tag-cloud .weight8 { font-size: 180%; }
+.tag-cloud .weight9 { font-size: 200%; }
+.tag-cloud .weight10 { font-size: 210%; }
+.floatleftimage {float:left; margin-right: 15px;}
+.floatrightimage {float:right; margin-right: 15px;}
+.eventcalendar table { clear:both; }
+#search_bg 
+{
+	background-color:#3a3a3a;
+	width: 100%;
+	height: 34px;
+	padding: 0px 0 0 0;
+}
+
+#search {
+	float: right;
+	width: 230px;
+	height: 34px;
+	padding: 0px 0px 0px 0px;
+}
+#search1 {
+	float: left;
+	height: 15px;
+	width: 400px;
+	padding: 0px 0px 0px 0px;
+	color:#ffffff;
+	margin: 15px 0 0 0;
+}
+#search .search .inputbox
+{
+	float: left;
+	border: none;
+	color: #003300;
+	font-size: 9px;
+	line-height: 14px;
+	width: 143px;
+	height: 22px;
+	margin: 8px 0px 0px 20px;
+}
+
+#search .search input.button {
+	float: left;
+	border: none;
+	color: #003300;
+	cursor: pointer;
+	font-weight: 700;
+	width: 60px;
+	height: 22px;
+	margin: 8px 0px 0px 0px;
+}
+
+
+.inputbox1
+{
+	float: left;
+	border: none;
+	color: #003300;
+	font-size: 9px;
+	line-height: 14px;
+	width: 143px;
+	height: 22px;
+	margin: 0px 0px 0px 0px;
+}
+.inputbox2
+{
+	color: #781351;
+	background: #fff4d5;
+	border: 1px solid #781351;
+}
+
+.botton {
+	float: left;
+	border: none;
+	color: #003300;
+	cursor: pointer;
+	font-weight: 700;
+	width: 60px;
+	height: 22px;
+	padding: 0px 0px 0px 0px;
+}
+.botton1 {
+color: #000;
+background: #ffa20f;
+border: 2px outset #d7b9c9
+
+}
+.BreadCrumb31
+{
+	width:15px;
+}
+
+.BreadCrumb32
+{
+	width:15px;
+}
+
+.error {
+  color: red;
+  margin-left: 10px;
+}
